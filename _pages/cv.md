@@ -53,22 +53,13 @@ redirect_from:
 <div class="column">
 <h3>Language</h3>
 <ul class="ul-Language">
-<li>
-</i> 江淮官话泰如片: 母语
-</li>
+<li>江淮官话泰如片: 母语</li>
 
-<li>
-</i> Mandarin: Mothertongue
-</li>
+<li>Mandarin: Mothertongue</li>
 
-<li>
-</i> English: Fluent
-</li>
+<li>English: Fluent</li>
 
-
-<li>
-</i> Swedish: Basic
-</li>
+<li>Swedish: Basic</li>
 
 </ul>
 </div>
