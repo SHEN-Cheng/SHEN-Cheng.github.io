@@ -23,18 +23,58 @@ redirect_from:
 
 ## 🛠️ <span style="color:#1E90FF">Skills</span>
 ------
-### Language
-- 江淮官话泰如片: 母语
-- Mandarin: Mothertongue
-- English: Fluent
-- Swedish: Basic
+<style>
+.column {
+    float: left;
+    padding: 10px;
+    width: 45%;
+}
 
-### Computer
-- Python: Advanced
-- Linux and Shell: Good
-- MATLAB: Basic
-- NCL, CDO, NCO: Advanced
-- Github, Linux, WSL, Docker: Proficient
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+</style>
+
+<div class="row">
+
+<div class="column">
+<h3>Interests</h3>
+<ul class="ul-Computer">
+<li>Python: Advanced</li>
+<li>Linux and Shell: Good</li>
+<li>NCL, CDO, NCO: Advanced</li>
+<li>Github, Linux, WSL, Docker: Proficient</li>
+</ul>
+</div>
+
+<div class="column">
+<h3>Education</h3>
+<ul class="ul-Language">
+<li>
+</i> 江淮官话泰如片: 母语
+</li>
+
+<li>
+</i> Mandarin: Mothertongue
+</li>
+
+<li>
+</i> English: Fluent
+</li>
+
+
+<li>
+</i> Swedish: Basic
+</li>
+
+</ul>
+</div>
+
+</div>
+
 
 ## 📰 <span style="color:#1E90FF">Publications</span>
 ------
