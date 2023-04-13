@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "SHEN Cheng (沈成)"
   avatar           : "head.jpg"
-  bio              : "Wind Climatologist, 见素抱朴   少私寡欲" 
+  bio              : "Wind Climatologist" 
   location         : "Gothenburg, Sweden"
   employer         :
   pubmed           : 
@@ -104,12 +104,9 @@ author:
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-1727-2638"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
   tumblr           :
   twitter          : "shen159876"
+  stackoverflow    : 见素抱朴   少私寡欲
 
 # Reading Files
 include:
