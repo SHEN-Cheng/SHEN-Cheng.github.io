@@ -41,7 +41,7 @@ redirect_from:
 <div class="row">
 
 <div class="column">
-<h3>Interests</h3>
+<h3>Computer</h3>
 <ul class="ul-Computer">
 <li>Python: Advanced</li>
 <li>Linux and Shell: Good</li>
@@ -51,7 +51,7 @@ redirect_from:
 </div>
 
 <div class="column">
-<h3>Education</h3>
+<h3>Language</h3>
 <ul class="ul-Language">
 <li>
 </i> 江淮官话泰如片: 母语
