@@ -21,44 +21,6 @@ redirect_from:
   * Nanjing Meteorological Bureau
   * Duties included: Climate analysis
 
-## 🛠️ <span style="color:#1E90FF">Skills</span>
-------
-<style>
-.column {
-    float: left;
-    padding: 5px;
-    width: 45%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-</style>
-<div class="row">
-<div class="column">
-<h3>Computer</h3>
-<ul class="ul-Computer">
-<li>Python: Advanced</li>
-<li>Linux and Shell: Good</li>
-<li>NCL, CDO, NCO: Advanced</li>
-<li>Github, Linux, WSL, Docker: Proficient</li>
-</ul>
-</div>
-
-<div class="column">
-<h3>Language</h3>
-<ul class="ul-Language">
-<li>江淮官话泰如片: 母语</li>
-<li>Mandarin: Mothertongue</li>
-<li>English: Fluent</li>
-<li>Swedish: Basic</li>
-</ul>
-</div>
-</div>
-
 
 ## 📰 <span style="color:#1E90FF">Publications</span>
 ------
@@ -101,6 +63,45 @@ I am/was a Teaching Assistant for the following courses:
 ------
 1. 2022, Research Fund Adlerbertska Stiftelse, Sweden
 2. 2023, Sven Lindqvists forskningsstiftelse, Sweden
+
+## 🛠️ <span style="color:#1E90FF">Skills</span>
+------
+<style>
+.column {
+    float: left;
+    padding: 5px;
+    width: 45%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+</style>
+<div class="row">
+<div class="column">
+<h3>Computer</h3>
+<ul class="ul-Computer">
+<li>Python: Advanced</li>
+<li>Linux and Shell: Good</li>
+<li>NCL, CDO, NCO: Advanced</li>
+<li>Github, Linux, WSL, Docker: Proficient</li>
+</ul>
+</div>
+
+<div class="column">
+<h3>Language</h3>
+<ul class="ul-Language">
+<li>江淮官话泰如片: 母语</li>
+<li>Mandarin: Mothertongue</li>
+<li>English: Fluent</li>
+<li>Swedish: Basic</li>
+</ul>
+</div>
+</div>
+
 
 ## 🗿 <span style="color:#1E90FF">Outreach</span>
 ------
