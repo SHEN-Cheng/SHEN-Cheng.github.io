@@ -26,7 +26,7 @@ redirect_from:
 <style>
 .column {
     float: left;
-    padding: 10px;
+    padding: 5px;
     width: 45%;
 }
 
@@ -37,9 +37,7 @@ redirect_from:
     clear: both;
 }
 </style>
-
 <div class="row">
-
 <div class="column">
 <h3>Computer</h3>
 <ul class="ul-Computer">
@@ -54,16 +52,11 @@ redirect_from:
 <h3>Language</h3>
 <ul class="ul-Language">
 <li>江淮官话泰如片: 母语</li>
-
 <li>Mandarin: Mothertongue</li>
-
 <li>English: Fluent</li>
-
 <li>Swedish: Basic</li>
-
 </ul>
 </div>
-
 </div>
 
 
