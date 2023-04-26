@@ -17,7 +17,7 @@ author_profile: true
 4. Chuan, Ting. et al., Decadal Change of the Near-Surface Wind Speed over China is Physically Linked to the East Asia Winter Monsoon, _**Journal of Geophysical Research: Atmospheres**_
 5. Zha, Jinlin. et al., Projected Near-surface Wind Speed Changes Over Central Asia based on Dynamical Downscaling with Bias-Corrected Global Climate Models, _**Environmental Research Letters**_
 6. Lorenzo Minola, et al., The contribution of large-scale atmospheric circulation to variations of observed near-surface wind speed across Sweden since 1926, _**Climatic Change**_, accepted
-7. Miguel Andres-Martin, et al., Uncertainty in wind speed projections over the Iberian Peninsula: a comparison of CMIP6 GCMs and a downscaled RCM using WRF, _**Geophysical Research Letters**_
+7. Miguel Andres-Martin, et al., Uncertainty in wind speed projections over the Iberian Peninsula: a comparison of CMIP6 GCMs and a downscaled RCM using WRF, _**Annals of the New York Academy of Sciences**_
 8. Kaiqiang Deliang, et al., Simulation and Projection of Changes in Near-Surface Wind Speed over East Asian Monsoon Region by CMIP6 Models, 
 _**Journal of Climate**_
 
