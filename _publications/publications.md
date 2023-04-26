@@ -13,7 +13,7 @@ author_profile: true
 ## <span style="color:#1E90FF">Submitted</span>
 ------
 1. Lorenzo Minola, et al., Climatology of near-surface wind speed from observations and high-resolution climate modelsover the Tibetan Plateau, [_**Research Square**_](https://doi.org/10.21203/rs.3.rs-2470952/v1)
-3. Liu, Yi. et al., Impacts of anemometer changes, site relocations and processing methods on wind speed trends in China, _**Science of the Total Environment**_
+3. Liu, Yi. et al., Impacts of anemometer changes, site relocations and processing methods on wind speed trends in China, [_**Atmos. Meas. Tech. Discuss.**_](https://amt.copernicus.org/preprints/amt-2023-58/)
 4. Chuan, Ting. et al., Decadal Change of the Near-Surface Wind Speed over China is Physically Linked to the East Asia Winter Monsoon, _**Journal of Geophysical Research: Atmospheres**_
 5. Zha, Jinlin. et al., Projected Near-surface Wind Speed Changes Over Central Asia based on Dynamical Downscaling with Bias-Corrected Global Climate Models, _**Environmental Research Letters**_
 6. Lorenzo Minola, et al., The contribution of large-scale atmospheric circulation to variations of observed near-surface wind speed across Sweden since 1926, _**Climatic Change**_, accepted
