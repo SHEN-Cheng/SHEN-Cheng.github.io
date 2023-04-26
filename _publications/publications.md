@@ -13,7 +13,6 @@ author_profile: true
 ## <span style="color:#1E90FF">Submitted</span>
 ------
 1. Lorenzo Minola, et al., Climatology of near-surface wind speed from observations and high-resolution climate modelsover the Tibetan Plateau, [_**Research Square**_](https://doi.org/10.21203/rs.3.rs-2470952/v1)
-2. Cesar Azorin-Molina, et al., Biases in Wind Speed Measurements Due to Anemometer Changes, [_**Atmospheric Research**_](https://plu.mx/ssrn/a/?ssrn_id=4374157)
 3. Liu, Yi. et al., Impacts of anemometer changes, site relocations and processing methods on wind speed trends in China, _**Science of the Total Environment**_
 4. Chuan, Ting. et al., Decadal Change of the Near-Surface Wind Speed over China is Physically Linked to the East Asia Winter Monsoon, _**Journal of Geophysical Research: Atmospheres**_
 5. Zha, Jinlin. et al., Projected Near-surface Wind Speed Changes Over Central Asia based on Dynamical Downscaling with Bias-Corrected Global Climate Models, _**Environmental Research Letters**_
@@ -26,7 +25,8 @@ _**Journal of Climate**_
 ------
 ### <span style="color:#1E90FF">2023</span>
 ------
-12. Zha, J., **Shen, C.** , Wu, J., Zhao, D., Fan, W., Jiang, H., and Zhao, T. (2023). Evaluation and Projection of Changes in Daily Maximum Wind Speed over China Based on CMIP6. _**Journal of Climate**, 36_(5), 1503-1520. [doi:10.1175/jcli-d-22-0193.1](https://journals.ametsoc.org/view/journals/clim/36/5/JCLI-D-22-0193.1.xml)
+13. Azorin-Molina, C., Pirooz, A.A.S., Bedoya-Valestt, S., Utrabo-Carazo, E., Andres-Martin, M.,  **Shen, C.**, Minola, L., Guijarro, J., Aguilar Anfrons, E., Brunet, M. and Flay, R.G., Biases in Wind Speed Measurements Due to Anemometer Changes. _**Atmospheric Research**, Available at [SSRN 4374157](https://www.sciencedirect.com/science/article/pii/S0169809523001680).
+12. Zha, J., **Shen, C.** , Wu, J., Zhao, D., Fan, W., Jiang, H., and Zhao, T. (2023). Evaluation and Projection of Changes in Daily Maximum Wind Speed over China Based on CMIP6. _**Journal of Climate**, 36_(5), 1503-1520. [doi:10.1175/jcli-d-22-0193.1]   Azorin-Molina, C., Pirooz, A.A.S., Bedoya-Valestt, S., Utrabo-Carazo, E., Andres-Martin, M., Shen, C., Minola, L., Guijarro, J., Aguilar Anfrons, E., Brunet, M. and Flay, R.G., Biases in Wind Speed Measurements Due to Anemometer Changes. Available at SSRN 4374157.(https://journals.ametsoc.org/view/journals/clim/36/5/JCLI-D-22-0193.1.xml)
 
 ### <span style="color:#1E90FF">2022</span>
 ------
