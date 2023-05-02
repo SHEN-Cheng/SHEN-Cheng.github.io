@@ -22,7 +22,7 @@ _**Journal of Climate**_
 
 ## <span style="color:#1E90FF">Peer-reviewed journal papers</span>
 ------
-### <span style="color:#1E90FF">2023</span>      Lorenzo Minola, Jessika Lönn, Cesar Azorin-Molina, Chunlüe Zhou, Erik Engström, Lennart Wern, Sverker Hellström, Gangfeng Zhang, Cheng Shen, Alessandro Pezzoli & Deliang Chen 
+### <span style="color:#1E90FF">2023</span> 
 ------
 13. Minola, L., Lönn, J., Azorin-Molina, C., Zhou, C., Engström, E., Wern, L., Hellström, S., Zhang, G., Shen, C., Chen, D. (2022). The contribution of large-scale atmospheric circulation to variations of observed near-surface wind speed across Sweden since 1926. [_**Climatic Change**_](https://link.springer.com/article/10.1007/s10584-023-03525-0#citeas)
 14. Azorin-Molina, C., Pirooz, A.A.S., Bedoya-Valestt, S., Utrabo-Carazo, E., Andres-Martin, M.,  **Shen, C.**, Minola, L., Guijarro, J., Aguilar Anfrons, E., Brunet, M. and Flay, R.G., Biases in Wind Speed Measurements Due to Anemometer Changes. _**Atmospheric Research**_, Available at [SSRN 4374157](https://www.sciencedirect.com/science/article/pii/S0169809523001680).
