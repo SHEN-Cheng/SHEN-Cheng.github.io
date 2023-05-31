@@ -60,7 +60,7 @@ I am/was a Teaching Assistant for the following courses:
 ## Workshop Organization
 - 2022, Wallenberg Conference Center, Gothenburg, Sweden. _GU-SMHI Wind workshop_
 
-## 🏅 <span style="color:#1E90FF">Awards and honors</span>
+## 🏅 <span style="color:#1E90FF">Awards and Honors</span>
 ------
 1. 2022, Research Fund Adlerbertska Stiftelse, Sweden
 2. 2023, Sven Lindqvists forskningsstiftelse, Sweden
