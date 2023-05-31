@@ -52,7 +52,7 @@ I am/was a Teaching Assistant for the following courses:
 5. 2022, Vienna, Austria. EGU 2022, _Projected changes in near-surface wind speed over Iberian Peninsula and associated atmosphere-ocean oscillations_ (Oral)
 6. 2022, Singapore. AOGS 2022, _Future changes in terrestrial near-surface wind speed under specific global warming levels_ (Oral)
 7. 2022, Gothenburg, Sweden. GU-SMHI Wind workshop, _Near-surface wind speed changes over land: simulations from the CMIP6 GCMs_ (Oral)
-8. 2023, Gothenburg, Sweden. GEOseminar, _Near-surface wind speed change and its impact on wind energy_ (Oral)
+8. 2023, Gothenburg, Sweden. GU-GEOseminar, _Near-surface wind speed change and its impact on wind energy_ (Oral)
 9. 2023, Vienna, Austria. EGU 2023, _Evaluation and projection of global terrestrial near-surface wind speed based on CMIP6 GCMs_ (Oral)
 
 # 🎚️ <span style="color:#1E90FF">Service</span>
