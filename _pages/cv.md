@@ -36,7 +36,7 @@ I am/was a Teaching Assistant for the following courses:
 - ***Climate Change and Society***
   - [ID: NG0220](https://www.gu.se/en/study-gothenburg/climate-change-and-society-ng0220). Lectured by Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/); Autumn 2022
 - ***Climate Change in an Earth System Perspective***
-  - [ID: GVN460](https://www.gu.se/en/study-gothenburg/climate-change-in-an-earth-system-perspective-gvn460). Lectured by Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/); Autumn 2022
+  - [ID: GVN460](https://www.gu.se/en/study-gothenburg/climate-change-in-an-earth-system-perspective-gvn460). Lectured by Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/); Autumn 2023
 
 ## 👨🏻‍🔬 <span style="color:#1E90FF">Supervision</span>
 ------
