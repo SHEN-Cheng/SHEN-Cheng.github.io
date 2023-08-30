@@ -23,7 +23,7 @@ author_profile: true
 ------
 ### <span style="color:#1E90FF">2023</span> 
 ------
-13. Andres-Martin, M., Azorin-Molina, C., **Shen, C.***, Gimeno, L., Zha, J., Uncertainty in surface wind speed projections over the Iberian Peninsula: CMIP6 GCMs vs. a WRF-RCM,  _**Annals of the New York Academy of Sciences**_
+13. Andres-Martin, M., Azorin-Molina, C., **Shen, C.***, Fernánde-zÁlvarez, J., Gimeno, L., and Zha, J. Uncertainty in surface wind speed projections over the Iberian Peninsula: CMIP6 GCMs vs. a WRF-RCM,  _**Annals of the New York Academy of Sciences**_
 14. **Shen, C.**, Yuan, H., Li, Z., Yang, X., Minola, L., Chang, Y., and Chen, D. (2023). March Near-surface Wind Speed Hiatus over China since 2011. _**Geophysical Research Letters**_, 50, e2023GL104230, [doi:10.1029/2023GL104230](https://doi.org/10.1029/2023GL104230)
 15. Minola, L., Lönn, J., Azorin-Molina, C., Zhou, C., Engström, E., Wern, L., Hellström, S., Zhang, G., **Shen, C.**, Chen, D. (2022). The contribution of large-scale atmospheric circulation to variations of observed near-surface wind speed across Sweden since 1926. _**Climatic Change**_, 54, [doi:10.1007/s10584-023-03525-0](https://link.springer.com/article/10.1007/s10584-023-03525-0#citeas)
 16. Azorin-Molina, C., Pirooz, A.A.S., Bedoya-Valestt, S., Utrabo-Carazo, E., Andres-Martin, M.,  **Shen, C.**, Minola, L., Guijarro, J., Aguilar Anfrons, E., Brunet, M. and Flay, R.G., Biases in Wind Speed Measurements Due to Anemometer Changes. _**Atmospheric Research**_, 289, 106771. [doi:10.1016/j.atmosres.2023.106771](https://doi.org/10.1016/j.atmosres.2023.106771).
