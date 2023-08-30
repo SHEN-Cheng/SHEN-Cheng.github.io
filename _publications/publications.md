@@ -16,18 +16,18 @@ author_profile: true
 3. Liu, Yi. et al., Impacts of anemometer changes, site relocations and processing methods on wind speed trends in China, [_**Atmos. Meas. Tech. Discuss.**_](https://amt.copernicus.org/preprints/amt-2023-58/)
 4. Chuan, Ting. et al., Decadal Change of the Near-Surface Wind Speed over China is Physically Linked to the East Asia Winter Monsoon, _**Journal of Geophysical Research: Atmospheres**_
 5. Zha, Jinlin. et al., Projected Near-surface Wind Speed Changes Over Central Asia based on Dynamical Downscaling with Bias-Corrected Global Climate Models, _**Environmental Research Letters**_
-7. Miguel Andres-Martin, et al., Uncertainty in wind speed projections over the Iberian Peninsula: a comparison of CMIP6 GCMs and a downscaled RCM using WRF, _**Annals of the New York Academy of Sciences**_
-8. Deng, Kaiqiang., et al., Simulation and Projection of Changes in Near-Surface Wind Speed over East Asian Monsoon Region by CMIP6 Models, _**Journal of Climate**_
-9. Deng, Kaiqiang., et al., The CMIP6 simulation and projection of the changes in near-surface wind speed over China’s nearshore waters in summer and winter. _**Advances in Climate Change Research**_
+6. Deng, Kaiqiang., et al., Simulation and Projection of Changes in Near-Surface Wind Speed over East Asian Monsoon Region by CMIP6 Models, _**Journal of Climate**_
+7. Deng, Kaiqiang., et al., The CMIP6 simulation and projection of the changes in near-surface wind speed over China’s nearshore waters in summer and winter. _**Advances in Climate Change Research**_
 
 ## <span style="color:#1E90FF">Peer-reviewed journal papers</span>
 ------
 ### <span style="color:#1E90FF">2023</span> 
 ------
-13. **Shen, C.**, Yuan, H., Li, Z., Yang, X., Minola, L., Chang, Y., and Chen, D. (2023). March Near-surface Wind Speed Hiatus over China since 2011. _**Geophysical Research Letters**_, 50, e2023GL104230, [doi:10.1029/2023GL104230](https://doi.org/10.1029/2023GL104230)
-14. Minola, L., Lönn, J., Azorin-Molina, C., Zhou, C., Engström, E., Wern, L., Hellström, S., Zhang, G., **Shen, C.**, Chen, D. (2022). The contribution of large-scale atmospheric circulation to variations of observed near-surface wind speed across Sweden since 1926. _**Climatic Change**_, 54, [doi:10.1007/s10584-023-03525-0](https://link.springer.com/article/10.1007/s10584-023-03525-0#citeas)
-15. Azorin-Molina, C., Pirooz, A.A.S., Bedoya-Valestt, S., Utrabo-Carazo, E., Andres-Martin, M.,  **Shen, C.**, Minola, L., Guijarro, J., Aguilar Anfrons, E., Brunet, M. and Flay, R.G., Biases in Wind Speed Measurements Due to Anemometer Changes. _**Atmospheric Research**_, 289, 106771. [doi:10.1016/j.atmosres.2023.106771](https://doi.org/10.1016/j.atmosres.2023.106771).
-16. Zha, J., **Shen, C.** , Wu, J., Zhao, D., Fan, W., Jiang, H., and Zhao, T. (2023). Evaluation and Projection of Changes in Daily Maximum Wind Speed over China Based on CMIP6. _**Journal of Climate**, 36_(5), 1503-1520. [doi:10.1175/jcli-d-22-0193.1](https://journals.ametsoc.org/view/journals/clim/36/5/JCLI-D-22-0193.1.xml)
+13. Andres-Martin, M., Azorin-Molina, C., **Shen, C.***, Gimeno, L., Zha, J., Uncertainty in surface wind speed projections over the Iberian Peninsula: CMIP6 GCMs vs. a WRF-RCM,  _**Annals of the New York Academy of Sciences**_
+14. **Shen, C.**, Yuan, H., Li, Z., Yang, X., Minola, L., Chang, Y., and Chen, D. (2023). March Near-surface Wind Speed Hiatus over China since 2011. _**Geophysical Research Letters**_, 50, e2023GL104230, [doi:10.1029/2023GL104230](https://doi.org/10.1029/2023GL104230)
+15. Minola, L., Lönn, J., Azorin-Molina, C., Zhou, C., Engström, E., Wern, L., Hellström, S., Zhang, G., **Shen, C.**, Chen, D. (2022). The contribution of large-scale atmospheric circulation to variations of observed near-surface wind speed across Sweden since 1926. _**Climatic Change**_, 54, [doi:10.1007/s10584-023-03525-0](https://link.springer.com/article/10.1007/s10584-023-03525-0#citeas)
+16. Azorin-Molina, C., Pirooz, A.A.S., Bedoya-Valestt, S., Utrabo-Carazo, E., Andres-Martin, M.,  **Shen, C.**, Minola, L., Guijarro, J., Aguilar Anfrons, E., Brunet, M. and Flay, R.G., Biases in Wind Speed Measurements Due to Anemometer Changes. _**Atmospheric Research**_, 289, 106771. [doi:10.1016/j.atmosres.2023.106771](https://doi.org/10.1016/j.atmosres.2023.106771).
+17. Zha, J., **Shen, C.** , Wu, J., Zhao, D., Fan, W., Jiang, H., and Zhao, T. (2023). Evaluation and Projection of Changes in Daily Maximum Wind Speed over China Based on CMIP6. _**Journal of Climate**, 36_(5), 1503-1520. [doi:10.1175/jcli-d-22-0193.1](https://journals.ametsoc.org/view/journals/clim/36/5/JCLI-D-22-0193.1.xml)
 
 ### <span style="color:#1E90FF">2022</span>
 ------
