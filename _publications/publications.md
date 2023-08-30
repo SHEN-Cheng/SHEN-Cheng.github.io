@@ -47,7 +47,6 @@ author_profile: true
 1. Zha, J., **Shen, C.** , Li, Z., Wu, J., Zhao, D., Fan, W., Sun, M., Azorin-Molina, C., and Deng, K. (2021). Projected changes in global terrestrial near-surface wind speed in 1.5 °C–4.0 °C global warming levels. _**Environmental Research Letters**, 16_(11). [doi:10.1088/1748-9326/ac2fdd](https://iopscience.iop.org/article/10.1088/1748-9326/ac2fdd/meta)
 
 
-[One click to download all the papers](/files/Cheng_papers_2023-04.zip) 
 
 <style>
 hr:nth-of-type(1) {
