@@ -12,11 +12,12 @@ author_profile: true
 
 ## <span style="color:#1E90FF">Submitted</span>
 ------
-1. Liu, Yi. et al., Impacts of anemometer changes, site relocations and processing methods on wind speed trends in China, [_**Atmos. Meas. Tech. Discuss.**_](https://amt.copernicus.org/preprints/amt-2023-58/)
-2. Chuan, Ting. et al., Decadal Change of the Near-Surface Wind Speed over China is Physically Linked to the East Asia Winter Monsoon, _**Journal of Geophysical Research: Atmospheres**_
-3. Zha, Jinlin. et al., Projected Near-surface Wind Speed Changes Over Central Asia based on Dynamical Downscaling with Bias-Corrected Global Climate Models, _**Environmental Research Letters**_
-4. Deng, Kaiqiang., et al., Simulation and Projection of Changes in Near-Surface Wind Speed over East Asian Monsoon Region by CMIP6 Models, _**Journal of Climate**_
-5. Deng, Kaiqiang., et al., The CMIP6 simulation and projection of the changes in near-surface wind speed over China’s nearshore waters in summer and winter. _**Advances in Climate Change Research**_
+1. Ynag, X., et al., Enhanced Spring Warming of the Tibetan Plateau Amplifies Summer Heat Stress in Eastern Europe, [**Climate Dynamics**_]
+2. Liu, Y., et al., Impacts of anemometer changes, site relocations and processing methods on wind speed trends in China, [_**Atmos. Meas. Tech. Discuss.**_](https://amt.copernicus.org/preprints/amt-2023-58/)
+3. Chuan, T., et al., Decadal Change of the Near-Surface Wind Speed over China is Physically Linked to the East Asia Winter Monsoon, _**Journal of Geophysical Research: Atmospheres**_
+4. Zha, J., et al., Projected Near-surface Wind Speed Changes Over Central Asia based on Dynamical Downscaling with Bias-Corrected Global Climate Models, _**Environmental Research Letters**_
+5. Deng, K., et al., Simulation and Projection of Changes in Near-Surface Wind Speed over East Asian Monsoon Region by CMIP6 Models, _**Journal of Climate**_
+6. Deng, K., et al., The CMIP6 simulation and projection of the changes in near-surface wind speed over China’s nearshore waters in summer and winter. _**Advances in Climate Change Research**_
 
 ## <span style="color:#1E90FF">Peer-reviewed journal papers</span>
 ------
