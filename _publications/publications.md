@@ -13,12 +13,14 @@ author_profile: true
 ## <span style="color:#1E90FF">Submitted</span>
 ------
 1. Yang, X., et al., Enhanced Spring Warming of the Tibetan Plateau Amplifies Summer Heat Stress in Eastern Europe,  _**Climate Dynamics**_
-2. Chuan, T., et al., Asynchronous changes in terrestrial near-surface wind speed among regions across China from 1973 to 2017, _**Atmospheric Research**_
-3. Liu, Y., et al., Impacts of anemometer changes, site relocations and processing methods on wind speed trends in China, [_**Atmos. Meas. Tech. Discuss.**_](https://amt.copernicus.org/preprints/amt-2023-58/), preprint version.
-4. Chuan, T., et al., Decadal Change of the Near-Surface Wind Speed over China is Physically Linked to the East Asia Winter Monsoon, _**Journal of Geophysical Research: Atmospheres**_
-5. Zha, J., et al., Projected Near-surface Wind Speed Changes Over Central Asia based on Dynamical Downscaling with Bias-Corrected Global Climate Models, _**Environmental Research Letters**_
-6. Deng, K., et al., Simulation and Projection of Changes in Near-Surface Wind Speed over East Asian Monsoon Region by CMIP6 Models, _**Journal of Climate**_
-7. Deng, K., et al., The CMIP6 simulation and projection of the changes in near-surface wind speed over China’s nearshore waters in summer and winter. _**Advances in Climate Change Research**_
+2. Yang, X., et al., Summer long-lived heatwaves in Northeast Asia promote heavy precipitation in South China, _**Weather and Climate Extremes**_
+3. Yang, X., et al., Phase-locked Wave-4 Pattern Dominates the Concurrent Summer Heat Extremes in the Northern Hemisphere,  _**Nature Climate Change**_
+5. Chuan, T., et al., Asynchronous changes in terrestrial near-surface wind speed among regions across China from 1973 to 2017, _**Atmospheric Research**_
+6. Liu, Y., et al., Impacts of anemometer changes, site relocations and processing methods on wind speed trends in China, [_**Atmos. Meas. Tech. Discuss.**_](https://amt.copernicus.org/preprints/amt-2023-58/), preprint version.
+7. Chuan, T., et al., Decadal Change of the Near-Surface Wind Speed over China is Physically Linked to the East Asia Winter Monsoon, _**Journal of Geophysical Research: Atmospheres**_
+8. Zha, J., et al., Projected Near-surface Wind Speed Changes Over Central Asia based on Dynamical Downscaling with Bias-Corrected Global Climate Models, _**Environmental Research Letters**_
+9. Deng, K., et al., Simulation and Projection of Changes in Near-Surface Wind Speed over East Asian Monsoon Region by CMIP6 Models, _**Journal of Climate**_
+10. Deng, K., et al., The CMIP6 simulation and projection of the changes in near-surface wind speed over China’s nearshore waters in summer and winter. _**Advances in Climate Change Research**_
 
 ## <span style="color:#1E90FF">Peer-reviewed journal papers</span>
 ------
