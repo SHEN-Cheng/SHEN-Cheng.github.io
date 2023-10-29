@@ -32,9 +32,10 @@ redirect_from:
 ------
 I am/was a Teaching Assistant for the following courses:
 - ***Climate Data Applications***
-  - [ID: GVN345](https://www.gu.se/en/study-gothenburg/climate-data-applications-gvn345). Lectured by Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/); Spring  2023
+  - [ID: GVN345](https://www.gu.se/en/study-gothenburg/climate-data-applications-gvn345). Lectured by Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/); Autumn  2022
+  - [ID: GVN345](https://www.gu.se/en/study-gothenburg/climate-data-applications-gvn345). Lectured by Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/); Autumn  2023
 - ***Climate Change and Society***
-  - [ID: NG0220](https://www.gu.se/en/study-gothenburg/climate-change-and-society-ng0220). Lectured by Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/); Autumn 2022
+  - [ID: NG0220](https://www.gu.se/en/study-gothenburg/climate-change-and-society-ng0220). Lectured by Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/); Spring 2023
 - ***Climate Change in an Earth System Perspective***
   - [ID: GVN460](https://www.gu.se/en/study-gothenburg/climate-change-in-an-earth-system-perspective-gvn460). Lectured by Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/); Autumn 2023
 
