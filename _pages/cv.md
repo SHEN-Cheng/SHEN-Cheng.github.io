@@ -28,6 +28,12 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+
+## 🏯 <span style="color:#1E90FF">Projection</span>
+------
+* Swedish FORMAS: Impact of climate variation and change on offshore wind energy potential. PI: Deliang Chen
+ 
+
 ## 🧑🏻‍🏫 <span style="color:#1E90FF">Teaching</span>
 ------
 I am/was a Teaching Assistant for the following courses:
