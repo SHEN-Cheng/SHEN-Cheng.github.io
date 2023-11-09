@@ -20,7 +20,7 @@ redirect_from:
 * 2018-2022: **Researcher** , China
   * Nanjing Meteorological Bureau
   * Duties included: Climate analysis
-* 2023-2024: **Visiting**, Spain
+* 2023: **Visiting**, Spain
   * CLIMate, ATmosphere and OCean-LABoratory (CLIMATOC-LAB)
   * Spanish National Research Council (CSIC-UV-GVA)
   * Desertificacion Research Centre (CIDE)
