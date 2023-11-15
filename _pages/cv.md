@@ -37,7 +37,7 @@ redirect_from:
 
 ## 🏯 <span style="color:#1E90FF">Projection</span>
 ------
-* Swedish FORMAS: Impact of climate variation and change on offshore wind energy potential. PI: Deliang Chen
+* ***Swedish FORMAS***: *Impact of climate variation and change on offshore wind energy potential* PI: Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/)
  
 
 ## 🧑🏻‍🏫 <span style="color:#1E90FF">Teaching</span>
@@ -76,6 +76,7 @@ I am/was a Teaching Assistant for the following courses:
 ------
 ## Workshop Organization
 - 2022, Wallenberg Conference Center, Gothenburg, Sweden. _GU-SMHI Wind workshop_
+- 2023, Geovetarcentrum, Regional Climate Group, Gothenburg, Sweden. _GU-NNU NSFC/STINT workshop_
 
 ## 🏅 <span style="color:#1E90FF">Awards and Honors</span>
 ------
