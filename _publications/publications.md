@@ -13,7 +13,6 @@ author_profile: true
 ## <span style="color:#1E90FF">Submitted</span>
 ------
 1. Yang, X., et al., Enhanced Spring Warming of the Tibetan Plateau Amplifies Summer Heat Stress in Eastern Europe,  _**Climate Dynamics**_
-2. Yu, Y., et al., Projected Emergence Seasons of Year-maximum Near-Surface Wind Speed,  _**Geophysical Research Letters**_
 4. Yang, X., et al., Phase-locked Wave-4 Pattern Dominates the Concurrent Summer Heat Extremes in the Northern Hemisphere,  _**Nature Climate Change**_
 7. Chuan, T., et al., Decadal Change of the Near-Surface Wind Speed over China is Physically Linked to the East Asia Winter Monsoon, _**Science Advances**_
 8. Zha, J., et al., Projected Near-surface Wind Speed Changes Over Central Asia based on Dynamical Downscaling with Bias-Corrected Global Climate Models, _**Environmental Research Letters**_
@@ -29,6 +28,7 @@ author_profile: true
 16. Deng, K., Liu, W., Li, H., Yang, S., Lian, T., Zhang, G., Zha, J., **Shen, C.**, Chen, D. (2024), The offshore wind speed changes in China: an insight into CMIP6 model simulation and future projections.
 _**Climate Dynamics**_, In Press
 17. Yang, X., Zhang, S., **Shen, C.**, and Chen, D. (2024), Summer long-lived heatwaves in Northeast Asia promote heavy precipitation in South China, _**Atmospheric Research**_, In Press
+18. Yu, Y., Li, Z.*, Yan, Z., Yuan, H., and **Shen, C.***, Projected Emergence Seasons of Year-maximum Near-Surface Wind Speed,  _**Geophysical Research Letters**_, In Press
 
 
 ### <span style="color:#1E90FF">2023</span> 
