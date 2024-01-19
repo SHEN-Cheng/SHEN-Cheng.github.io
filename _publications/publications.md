@@ -18,6 +18,7 @@ author_profile: true
 8. Zha, J., et al., Projected Near-surface Wind Speed Changes Over Central Asia based on Dynamical Downscaling with Bias-Corrected Global Climate Models, _**Environmental Research Letters**_
 9. Deng, K., et al., Simulation and Projection of Changes in Near-Surface Wind Speed over East Asian Monsoon Region by CMIP6 Models, _**Journal of Climate**_
 10. Deng, K., et al., The CMIP6 simulation and projection of the changes in near-surface wind speed over China’s nearshore waters in summer and winter. _**Advances in Climate Change Research**_
+11. Zha, J., et al., Attribution of terrestrial near-surface wind speed changes across China at a centennial scale. _**Geophysical Research Letters**_,
 
 ## <span style="color:#1E90FF">Peer-reviewed journal papers</span>
 ------
@@ -28,7 +29,7 @@ author_profile: true
 16. Deng, K., Liu, W., Li, H., Yang, S., Lian, T., Zhang, G., Zha, J., **Shen, C.**, and Chen, D. (2024), The offshore wind speed changes in China: an insight into CMIP6 model simulation and future projections.
 _**Climate Dynamics**_, In Press
 17. Yang, X., Zhang, S., **Shen, C.**, and Chen, D. (2024), Summer long-lived heatwaves in Northeast Asia promote heavy precipitation in South China, _**Atmospheric Research**_, [https://doi.org/10.1016/j.atmosres.2024.107244](https://doi.org/10.1016/j.atmosres.2024.107244)
-18. Yu, Y., Li, Z., Yan, Z., Yuan, H., and **Shen, C.***, Projected Emergence Seasons of Year-maximum Near-Surface Wind Speed,  _**Geophysical Research Letters**_, , [https://doi.org/10.1029/2023GL107543](https://doi.org/10.1029/2023GL107543)
+18. Yu, Y., Li, Z., Yan, Z., Yuan, H., and **Shen, C.***, Projected Emergence Seasons of Year-maximum Near-Surface Wind Speed,  _**Geophysical Research Letters**_, [https://doi.org/10.1029/2023GL107543](https://doi.org/10.1029/2023GL107543)
 
 
 ### <span style="color:#1E90FF">2023</span> 
