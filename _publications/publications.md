@@ -13,12 +13,11 @@ author_profile: true
 ## <span style="color:#1E90FF">Submitted</span>
 ------
 1. Yang, X., et al., Enhanced Spring Warming of the Tibetan Plateau Amplifies Summer Heat Stress in Eastern Europe,  _**Climate Dynamics**_
-4. Yang, X., et al., Phase-locked Wave-4 Pattern Dominates the Concurrent Summer Heat Extremes in the Northern Hemisphere,  _**Nature Climate Change**_
-7. Chuan, T., et al., Decadal Change of the Near-Surface Wind Speed over China is Physically Linked to the East Asia Winter Monsoon, _**Science Advances**_
-8. Zha, J., et al., Projected Near-surface Wind Speed Changes Over Central Asia based on Dynamical Downscaling with Bias-Corrected Global Climate Models, _**Environmental Research Letters**_
-9. Deng, K., et al., Simulation and Projection of Changes in Near-Surface Wind Speed over East Asian Monsoon Region by CMIP6 Models, _**Journal of Climate**_
-10. Deng, K., et al., The CMIP6 simulation and projection of the changes in near-surface wind speed over China’s nearshore waters in summer and winter. _**Advances in Climate Change Research**_
-11. Zha, J., et al., Attribution of terrestrial near-surface wind speed changes across China at a centennial scale. _**Geophysical Research Letters**_,
+2. Yang, X., et al., Summer Heat Stress Trends and Projections in the Southern Himalayas: Implications for Future Occupational Health. _**Earths Future**_
+3. Chuan, T., et al., Decadal Change of the Near-Surface Wind Speed over China is Physically Linked to the East Asia Winter Monsoon, _**EPSL**_
+4. Zha, J., et al., Projected Near-surface Wind Speed Changes Over Central Asia based on Dynamical Downscaling with Bias-Corrected Global Climate Models, _**Environmental Research Letters**_
+5. Zha, J., et al., Attribution of terrestrial near-surface wind speed changes across China at a centennial scale. _**Geophysical Research Letters**_
+6. Li, Z., et al., Atlantic Multidecadal Oscillation dominates the reduction in near-surface wind speed over China. _**Geophysical Research Letters**_,
 
 ## <span style="color:#1E90FF">Peer-reviewed journal papers</span>
 ------
