@@ -84,6 +84,8 @@ I am/was a Teaching Assistant for the following courses:
 2. 2023, Sven Lindqvists forskningsstiftelse, Sweden
 3. 2023, Jonsered Foundation-Villa Martinson, Sweden
 4. 2023, ADLERBERT SCHOLARSHIPS, Sweden
+5. 2024, Jonsered Foundation-Villa Martinson, Sweden
+
 
 ## 🛠️ <span style="color:#1E90FF">Skills</span>
 ------
