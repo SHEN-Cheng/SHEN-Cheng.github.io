@@ -25,12 +25,12 @@ author_profile: true
 ------
 14. Chuan, T., Wu, T., Zha, J., Zhao, D., **Shen, C.**, Fan, W., and Jiang, H. (2024). Asynchronous changes in terrestrial near-surface wind speed among regions across China from 1973 to 2017, _**Atmospheric Research**_. [https://doi.org/10.1016/j.atmosres.2024.107220](https://doi.org/10.1016/j.atmosres.2024.107220)
 15. Liu, Y., Zhou, L., Qin, Y., Azorin-Molina, C., **Shen, C.**, Xu, R., and Zeng, Z. (2024), Impacts of anemometer changes, site relocations and processing methods on wind speed trends in China, **Atmos. Meas. Tech. Discuss.**, [https://doi.org/10.5194/amt-2023-58](https://amt.copernicus.org/articles/17/1123/2024/)
-16. Deng, K., Liu, W., Li, H., Yang, S., Lian, T., Zhang, G., Zha, J., **Shen, C.**, and Chen, D. (2024), The offshore wind speed changes in China: an insight into CMIP6 model simulation and future projections. _**Climate Dynamics**_
+16. Deng, K., Liu, W., Li, H., Yang, S., Lian, T., Zhang, G., Zha, J., **Shen, C.**, and Chen, D. (2024), The offshore wind speed changes in China: an insight into CMIP6 model simulation and future projections. _**Climate Dynamics**_, [https://link.springer.com/article/10.1007/s00382-023-07066-1](https://link.springer.com/article/10.1007/s00382-023-07066-1)
 _**Climate Dynamics**_, [https://doi.org/10.1007/s00382-023-07066-1#Ack1](https://link.springer.com/article/10.1007/s00382-023-07066-1#Ack1)
 17. Yang, X., Zhang, S., **Shen, C.**, and Chen, D. (2024), Summer long-lived heatwaves in Northeast Asia promote heavy precipitation in South China, _**Atmospheric Research**_, [https://doi.org/10.1016/j.atmosres.2024.107244](https://doi.org/10.1016/j.atmosres.2024.107244)
 18. Yu, Y., Li, Z., Yan, Z., Yuan, H., and **Shen, C.***, Projected Emergence Seasons of Year-maximum Near-Surface Wind Speed,  _**Geophysical Research Letters**_, [https://doi.org/10.1029/2023GL107543](https://doi.org/10.1029/2023GL107543)
 19. Yang, X., Gang, Z., Zhang, S., Iyakaremye, V., **Shen, C.**, Wang, W., and Chen, D., Phase-locked Wave-4 Pattern Dominates the Concurrent Summer Heat Extremes in the Northern Hemisphere,  _**Geophysical Research Letters**_, [https://doi.org/10.1029/2023GL107106](https://doi.org/10.1029/2023GL107106)
-20. Yang, X., Shen, C., Zhang, G., Chen, D., Enhanced spring warming of the Tibetan Plateau amplifies summer heat stress in Eastern Europe. _**Climate Dynamics**_
+20. Yang, X., Shen, C., Zhang, G., Chen, D., Enhanced spring warming of the Tibetan Plateau amplifies summer heat stress in Eastern Europe. _**Climate Dynamics**_, [https://link.springer.com/article/10.1007/s00382-024-07197-z](https://link.springer.com/article/10.1007/s00382-024-07197-z)
 
 
 ### <span style="color:#1E90FF">2023</span> 
