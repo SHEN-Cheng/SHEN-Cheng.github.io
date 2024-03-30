@@ -37,7 +37,8 @@ redirect_from:
 
 ## 🏯 <span style="color:#1E90FF">Projection</span>
 ------
-* ***Swedish FORMAS***: *Impact of climate variation and change on offshore wind energy potential* PI: Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/)
+* ***Swedish VR***: *A New Interdisciplinary Framework for Studying the Relation between C limate C hange and Migration*
+* ***Swedish FORMAS***: *Impact of climate variation and change on offshore wind energy potential*
  
 
 ## 🧑🏻‍🏫 <span style="color:#1E90FF">Teaching</span>
@@ -48,8 +49,6 @@ I am/was a Teaching Assistant for the following courses:
   - [ID: GVN345](https://www.gu.se/en/study-gothenburg/climate-data-applications-gvn345). Lectured by Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/); Autumn  2023
 - ***Climate Change and Society***
   - [ID: NG0220](https://www.gu.se/en/study-gothenburg/climate-change-and-society-ng0220). Lectured by Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/); Spring 2023
-- ***Climate Change in an Earth System Perspective***
-  - [ID: GVN460](https://www.gu.se/en/study-gothenburg/climate-change-in-an-earth-system-perspective-gvn460). Lectured by Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/); Autumn 2023
 
 ## 👨🏻‍🔬 <span style="color:#1E90FF">Supervision</span>
 ------
@@ -74,10 +73,6 @@ I am/was a Teaching Assistant for the following courses:
 
 # 🎚️ <span style="color:#1E90FF">Service</span>
 ------
-## Workshop Organization
-- 2022, Wallenberg Conference Center, Gothenburg, Sweden. _GU-SMHI Wind workshop_
-- 2023, Geovetarcentrum, Regional Climate Group, Gothenburg, Sweden. _GU-NNU NSFC/STINT workshop_
-
 ## 🏅 <span style="color:#1E90FF">Awards and Honors</span>
 ------
 1. 2022, Research Fund Adlerbertska Stiftelse, Sweden
@@ -117,7 +112,6 @@ I am/was a Teaching Assistant for the following courses:
 <div class="column">
 <h3>Language</h3>
 <ul class="ul-Language">
-<li>江淮官话泰如片: 母语</li>
 <li>Mandarin: Mothertongue</li>
 <li>English: Fluent</li>
 <li>Swedish: Basic</li>
