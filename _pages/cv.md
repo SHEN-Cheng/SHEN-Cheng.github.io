@@ -35,7 +35,7 @@ redirect_from:
   {% endfor %}</ul>
 
 
-## 🏯 <span style="color:#1E90FF">Projection</span>
+## 🏯 <span style="color:#1E90FF">Project</span>
 ------
 * ***Swedish VR***: *A New Interdisciplinary Framework for Studying the Relation between Climate Change and Migration*
 * ***Swedish FORMAS***: *Impact of climate variation and change on offshore wind energy potential*
