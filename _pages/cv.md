@@ -37,7 +37,7 @@ redirect_from:
 
 ## 🏯 <span style="color:#1E90FF">Projection</span>
 ------
-* ***Swedish VR***: *A New Interdisciplinary Framework for Studying the Relation between C limate C hange and Migration*
+* ***Swedish VR***: *A New Interdisciplinary Framework for Studying the Relation between Climate Change and Migration*
 * ***Swedish FORMAS***: *Impact of climate variation and change on offshore wind energy potential*
  
 
