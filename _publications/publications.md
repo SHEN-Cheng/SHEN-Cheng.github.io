@@ -31,6 +31,7 @@ _**Climate Dynamics**_, [https://doi.org/10.1007/s00382-023-07066-1#Ack1](https:
 18. Yu, Y., Li, Z., Yan, Z., Yuan, H., and **Shen, C.**, Projected Emergence Seasons of Year-maximum Near-Surface Wind Speed,  _**Geophysical Research Letters**_, [https://doi.org/10.1029/2023GL107543](https://doi.org/10.1029/2023GL107543)
 19. Yang, X., Gang, Z., Zhang, S., Iyakaremye, V., **Shen, C.**, Wang, W., and Chen, D., Phase-locked Wave-4 Pattern Dominates the Concurrent Summer Heat Extremes in the Northern Hemisphere,  _**Geophysical Research Letters**_, [https://doi.org/10.1029/2023GL107106](https://doi.org/10.1029/2023GL107106)
 20. Yang, X., Shen, C., Zhang, G., Chen, D., Enhanced spring warming of the Tibetan Plateau amplifies summer heat stress in Eastern Europe. _**Climate Dynamics**_, [https://link.springer.com/article/10.1007/s00382-024-07197-z](https://link.springer.com/article/10.1007/s00382-024-07197-z)
+21. Attribution of Terrestrial Near-Surface Wind Speed Changes Across China at a Centennial Scale. _**Geophysical Research Letters**_, [https://doi.org/10.1029/2024GL108241](https://doi.org/10.1029/2024GL108241)
 
 
 ### <span style="color:#1E90FF">2023</span> 
