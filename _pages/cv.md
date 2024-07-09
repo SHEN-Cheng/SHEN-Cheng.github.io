@@ -80,8 +80,9 @@ I am/was a Teaching Assistant for the following courses:
 3. 2023, Jonsered Foundation-Villa Martinson, Sweden
 4. 2023, ADLERBERT SCHOLARSHIPS, Sweden
 5. 2024, Jonsered Foundation-Villa Martinson, Sweden
-6. 2024, Längmanska Kulturfonden, Sweden
-7. 2024, Chinese Government Award for Outstanding Self-financed Students Abroad, China
+6. 2024, Award for Outstanding Self-financed Students Abroad, China
+         中文名: 国家优秀自费留学生奖学金
+7. 2024, Längmanska Kulturfonden, Sweden
 
 
 ## 🛠️ <span style="color:#1E90FF">Skills</span>
