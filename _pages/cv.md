@@ -59,17 +59,17 @@ I am/was a Teaching Assistant for the following courses:
 
 ## 👨🏻‍ <span style="color:#1E90FF">Conference Presentation</span>
 ------
-1. 2021, Guiyang, China, The 6th Symposium on Regional Climate Change Monitoring and Detection, _Attribution of global near-surface wind Speed_ (Oral)
-2. 2021, Guiyang, China, The 6th Symposium on Regional Climate Change Monitoring and Detection, _Assessment of offshore wind trends using global_ centennial reanalysis products (Poster)
+1. 2021, Guiyang, China, Regional Climate Change Monitoring and Detection, _Attribution of global near-surface wind Speed_ (Oral)
+2. 2021, Guiyang, China, Regional Climate Change Monitoring and Detection, _Assessment of offshore wind trends using global_ centennial reanalysis products (Poster)
 3. 2021, Beijing, China. Chinese Young Scientist Forum 2021, _Influencing factors of global Interdecadal land wind speed changes_ (Oral)
 4. 2021, Beijing, China. Chinese Climate Prediction and Climate Application Technology Forum 2021, _Detection and attribution of global near-surface wind speed_ (Oral)
 5. 2022, Vienna, Austria. EGU 2022, _Projected changes in near-surface wind speed over Iberian Peninsula and associated atmosphere-ocean oscillations_ (Oral)
 6. 2022, Singapore. AOGS 2022, _Future changes in terrestrial near-surface wind speed under specific global warming levels_ (Oral)
 7. 2022, Gothenburg, Sweden. GU-SMHI Wind workshop, _Near-surface wind speed changes over land: simulations from the CMIP6 GCMs_ (Oral)
 8. 2023, Gothenburg, Sweden. GU-GEOseminar, _Near-surface wind speed change and its impact on wind energy_ (Oral)
-9. 2023, Madrid, Spain. CLIVAR 2023,  _PROJECTED NEAR-SURFACE WIND SPEED CHANGES OVER THE IBERIAN PENINSULA: COMPARISON OF CMIP6 GCMS AND A DOWNSCALED RCM USING WRF_ (Oral, Awared)
 10. 2023, Vienna, Austria. EGU 2023, _Evaluation and projection of global terrestrial near-surface wind speed based on CMIP6 GCMs_ (Oral)
 11. 2023, Bratislava, Slovakia. EMS 2023, _Projection of the near-surface wind speed based on CMIP6 GCMs and its uncertainties_ (Poster)
+12. 2024, Vienna, Austria. EGU 2024, _East Asian Subtropical Jet Impact on Monthly Near-surface Wind Speed Change over China_ (Poster)
 
 # 🎚️ <span style="color:#1E90FF">Service</span>
 ------
