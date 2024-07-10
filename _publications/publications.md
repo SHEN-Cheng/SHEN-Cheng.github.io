@@ -30,7 +30,7 @@ author_profile: true
 18. Yang, X., Zhang, S., **Shen, C.**, and Chen, D. (2024). Summer long-lived heatwaves in Northeast Asia promote heavy precipitation in South China, _**Atmospheric Research**_, [https://doi.org/10.1016/j.atmosres.2024.107244](https://doi.org/10.1016/j.atmosres.2024.107244)
 19. Yu, Y., Li, Z., Yan, Z., Yuan, H., and **Shen, C.**, (2024). Projected Emergence Seasons of Year-maximum Near-Surface Wind Speed,  _**Geophysical Research Letters**_, [https://doi.org/10.1029/2023GL107543](https://doi.org/10.1029/2023GL107543)
 20. Yang, X., Gang, Z., Zhang, S., Iyakaremye, V., **Shen, C.**, Wang, W., and Chen, D., (2024). Phase-locked Wave-4 Pattern Dominates the Concurrent Summer Heat Extremes in the Northern Hemisphere,  _**Geophysical Research Letters**_, [https://doi.org/10.1029/2023GL107106](https://doi.org/10.1029/2023GL107106)
-21. Yang, X., Shen, C., Zhang, G., Chen, D., (2024). Enhanced spring warming of the Tibetan Plateau amplifies summer heat stress in Eastern Europe. _**Climate Dynamics**_, [https://link.springer.com/article/10.1007/s00382-024-07197-z](https://link.springer.com/article/10.1007/s00382-024-07197-z)
+21. Yang, X., **Shen, C.**, Zhang, G., Chen, D., (2024). Enhanced spring warming of the Tibetan Plateau amplifies summer heat stress in Eastern Europe. _**Climate Dynamics**_, [https://link.springer.com/article/10.1007/s00382-024-07197-z](https://link.springer.com/article/10.1007/s00382-024-07197-z)
 22. Zha, J., Chuan, T., Wu, J., Zhao, D., Luo, M., Feng, J., Fan, W., **Shen, C.**, Jiang, H., (2024). Attribution of Terrestrial Near-Surface Wind Speed Changes Across China at a Centennial Scale. _**Geophysical Research Letters**_, [https://doi.org/10.1029/2024GL108241](https://doi.org/10.1029/2024GL108241)
 
 
