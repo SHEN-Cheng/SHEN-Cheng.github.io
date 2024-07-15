@@ -16,8 +16,7 @@ author_profile: true
 3. Shen, C., et al., Internal variability impact on regional near-surface wind speed. _**Geophysical Research Letters**_
 4. Yang, X., et al., Summer Heat Stress Trends and Projections in the Southern Himalayas: Implications for Future Occupational Health. _**Earths Future**_
 5. Chuan, T., et al., Decadal Change of the Near-Surface Wind Speed over China is Physically Linked to the East Asia Winter Monsoon, _**EPSL**_
-6. Zha, J., et al., Projected Near-surface Wind Speed Changes Over Central Asia based on Dynamical Downscaling with Bias-Corrected Global Climate Models, _**Environmental Research Letters**_
-7. Li, Z., et al., Atlantic Multidecadal Oscillation dominates the reduction in near-surface wind speed over China. _**Geophysical Research Letters**_
+6. Li, Z., et al., Atlantic Multidecadal Oscillation dominates the reduction in near-surface wind speed over China. _**Geophysical Research Letters**_
 
 ## <span style="color:#1E90FF">Peer-reviewed journal papers</span>
 ------
