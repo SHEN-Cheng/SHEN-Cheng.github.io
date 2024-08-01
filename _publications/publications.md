@@ -21,7 +21,7 @@ author_profile: true
 ------
 ### <span style="color:#1E90FF">2024</span> 
 ------
-14. **Shen, C.**, Li, Z. B., Liu, F., Chen, H. W., & Chen, D. (2024). A Robust Reduction in Near-Surface Wind Speed After Volcanic Eruptions: Implications for Wind Energy Generation. _**The Innovation**_. In press.
+14. **Shen, C.**, Li, Z. B., Liu, F., Chen, H. W., and Chen, D. (2024). A Robust Reduction in Near-Surface Wind Speed After Volcanic Eruptions: Implications for Wind Energy Generation. _**The Innovation**_. In press.
 15. **Shen, C.**, Li, Z. B., Yuan, H. S., Yu, Y., Lei, Y., and Chen, D. (2024). Increases of Offshore Wind Potential in a Warming World. _**Geophysical Research Letters**_, [https://doi.org/10.1029/2024GL109494](https://doi.org/10.1029/2024GL109494)
 16. Chuan, T., Wu, T., Zha, J., Zhao, D., **Shen, C.**, Fan, W., and Jiang, H. (2024). Asynchronous changes in terrestrial near-surface wind speed among regions across China from 1973 to 2017, _**Atmospheric Research**_. [https://doi.org/10.1016/j.atmosres.2024.107220](https://doi.org/10.1016/j.atmosres.2024.107220)
 17. Liu, Y., Zhou, L., Qin, Y., Azorin-Molina, C., **Shen, C.**, Xu, R., and Zeng, Z. (2024). Impacts of anemometer changes, site relocations and processing methods on wind speed trends in China, **Atmos. Meas. Tech. Discuss.**, [https://doi.org/10.5194/amt-2023-58](https://amt.copernicus.org/articles/17/1123/2024/)
