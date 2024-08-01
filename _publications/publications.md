@@ -12,8 +12,7 @@ author_profile: true
 
 ## <span style="color:#1E90FF">Submitted</span>
 ------
-1. Shen, C., et al., A Robust Reduction in Near-Surface Wind Speed After Volcanic Eruptions: Implications for Wind Energy Generation. _**The Innovation**_
-3. Shen, C., et al., Internal variability impact on regional near-surface wind speed. _**Geophysical Research Letters**_
+1. Shen, C., et al., Internal variability impact on regional near-surface wind speed. _**Geophysical Research Letters**_
 4. Yang, X., et al., Summer Heat Stress Trends and Projections in the Southern Himalayas: Implications for Future Occupational Health. _**Earths Future**_
 5. Chuan, T., et al., Decadal Change of the Near-Surface Wind Speed over China is Physically Linked to the East Asia Winter Monsoon, _**EPSL**_
 6. Li, Z., et al., Atlantic Multidecadal Oscillation dominates the reduction in near-surface wind speed over China. _**Geophysical Research Letters**_
