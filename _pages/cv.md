@@ -23,9 +23,9 @@ redirect_from:
   * CLIMate, ATmosphere and OCean-LABoratory (CLIMATOC-LAB)
   * Spanish National Research Council (CSIC-UV-GVA)
   * Desertificacion Research Centre (CIDE)
-
-
-
+* 2024: **Researcher**, Sweden
+  * Regional Climate Group
+  * University of Gothenburg
 
 ## 📰 <span style="color:#1E90FF">Publications</span>
 ------
