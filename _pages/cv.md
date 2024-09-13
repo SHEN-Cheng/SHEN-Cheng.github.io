@@ -13,7 +13,7 @@ redirect_from:
 ------
 - 2015, **B.S.** in Atmospheric Science, Yunnan University, China
 - 2018, **M.S.** in Meteorology, East China Normal University, China
-- Ongoing,  **Ph.D** in Climatology, University of Gothenburg, Sweden
+- 2024,  **Ph.D** in Climatology, University of Gothenburg, Sweden
 
 ## 👨‍💻 <span style="color:#1E90FF">Work Experience</span>
 ------
