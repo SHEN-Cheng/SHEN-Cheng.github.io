@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I'm a post-doc researcher working on the near-surface wind speed change at Regional Climate Group [(RCG)](http://rcg.gvc.gu.se/) in University Gothenburg, hosted by Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/).   
+👨🏻‍💻 I'm a post-doc researcher working on the near-surface wind speed change at Regional Climate Group [(RCG)](http://rcg.gvc.gu.se/) in University Gothenburg.   
 
 🔬 My research interests are wind speed change and wind energy, my work aims to find the potential causes to changes in wind speed and wind extreme events, using a combination of observationas, reanalysis and simulation models.
 
