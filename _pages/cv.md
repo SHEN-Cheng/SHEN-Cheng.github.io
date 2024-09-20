@@ -81,7 +81,7 @@ I am/was a Teaching Assistant for the following courses:
 5. 2024, Jonsered Foundation-Villa Martinson, Sweden
 6. 2024, Award for Outstanding Self-financed Students Abroad, China
 7. 2024, Längmanska Kulturfonden (BA24-0484), Sweden
-8. 2024，Adlerbertska Forskningsstiftelsen (AF2024-0069), Sweden
+8. 2024, Adlerbertska Forskningsstiftelsen (AF2024-0069), Sweden
 
 
 ## 🛠️ <span style="color:#1E90FF">Skills</span>
