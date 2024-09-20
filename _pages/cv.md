@@ -75,7 +75,7 @@ I am/was a Teaching Assistant for the following courses:
 ## 🏅 <span style="color:#1E90FF">Awards and Honors</span>
 ------
 1. 2022, Research Fund Adlerbertska Stiftelse, Sweden
-2. 2023, Sven Lindqvists forskningsstiftelse, Sweden
+2. 2023, Sven Lindqvists Forskningsstiftelse, Sweden
 3. 2023, Jonsered Foundation-Villa Martinson, Sweden
 4. 2023, ADLERBERT SCHOLARSHIPS, Sweden
 5. 2024, Jonsered Foundation-Villa Martinson, Sweden
