@@ -14,7 +14,7 @@ author_profile: true
 ------
 ### <span style="color:#1E90FF">2024</span> 
 ------
-14. Li, Z.B., Xu, Y., Yuan, H. S., Chang, Y., and **Shen, C.** (2024). AMO footprint of the recent near-surface wind speed change over China. _**Environmental Research Letters**_, In press.
+14. Li, Z.B., Xu, Y., Yuan, H. S., Chang, Y., and **Shen, C.**✉ (2024). AMO footprint of the recent near-surface wind speed change over China. _**Environmental Research Letters**_, In press.
 15. **Shen, C.**, Li, Z. B., Liu, F., Chen, H. W., and Chen, D. (2024). A Robust Reduction in Near-Surface Wind Speed After Volcanic Eruptions: Implications for Wind Energy Generation. _**The Innovation**_. In press.
 16. Yang, X., **Shen, C.**, Ullah, I., Curio, J., & Chen, D. (2024). Evaluating heat stress and occupational risks in the Southern Himalayas under current and future climates. _**npj Climate and Atmospheric Science**_, [https://doi.org/10.1038/s41612-024-00764-5](https://doi.org/10.1038/s41612-024-00764-5)
 17. **Shen, C.**, Li, Z. B., Yuan, H. S., Yu, Y., Lei, Y., and Chen, D. (2024). Increases of Offshore Wind Potential in a Warming World. _**Geophysical Research Letters**_, [https://doi.org/10.1029/2024GL109494](https://doi.org/10.1029/2024GL109494), featured in [_**The Guardian**_](https://www.theguardian.com/news/article/2024/sep/05/global-heating-could-raise-potential-for-offshore-wind-power-study-says), [_**AGU News**_](https://news.agu.org/8-7-24-warmer-climates-could-mean-more-wind-power/) and the [_**University of Gothenburg**_](https://www.gu.se/en/news/increased-offshore-wind-potential-in-a-warmer-world).
