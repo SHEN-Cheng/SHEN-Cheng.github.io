@@ -27,7 +27,6 @@ author_profile: true
 24. Yang, X., **Shen, C.**, Zhang, G., Chen, D., (2024). Enhanced spring warming of the Tibetan Plateau amplifies summer heat stress in Eastern Europe. _**Climate Dynamics**_, [https://link.springer.com/article/10.1007/s00382-024-07197-z](https://link.springer.com/article/10.1007/s00382-024-07197-z)
 25. Zha, J., Chuan, T., Wu, J., Zhao, D., Luo, M., Feng, J., Fan, W., **Shen, C.**, Jiang, H., (2024). Attribution of Terrestrial Near-Surface Wind Speed Changes Across China at a Centennial Scale. _**Geophysical Research Letters**_, [https://doi.org/10.1029/2024GL108241](https://doi.org/10.1029/2024GL108241)
 
-
 ### <span style="color:#1E90FF">2023</span> 
 ------
 13. Minola, L., Zhang, G., Ou, T., Kukulies, J., Curio, J., Guijarro, J.A., Deng, K., Azorin-Molina, C., **Shen, C.**, Pezzoli, A. and Chen, D. (2023). Climatology of near-surface wind speed from observations and high-resolution climate models over the Tibetan Plateau. _**Climate Dynamics**_ (2023). [https://doi.org/10.1007/s00382-023-06931-3](https://doi.org/10.1007/s00382-023-06931-3)
