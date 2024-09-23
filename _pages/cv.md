@@ -52,9 +52,10 @@ I am/was a Teaching Assistant for the following courses:
 ## 👨🏻‍🔬 <span style="color:#1E90FF">Supervision</span>
 ------
 1. YU Yue (**Climate Engineer**, 2021): *[Does CRA-40 outperform other reanalysis products in evaluating near-surface wind speed changes over China?](https://www.sciencedirect.com/science/article/pii/S0169809521005044)* Nanjing Meteorological Bureau
-2. Miguel Andres-Martin (**Master thesis**, 2022): *Near-surface wind speed trends and variability over the northern Antarctic Peninsula, 1979-2020*, Universidad Complutense de Madrid
+2. Miguel Andres-Martin (**Co-supervised**, 2022): *Near-surface wind speed trends and variability over the northern Antarctic Peninsula, 1979-2020*, Universidad Complutense de Madrid
 3. Bromwel Apondi (**Master thesis**, 2022): *Wind speed and wind energy changes over East-Africa*, University of Gothenburg
 4. YUAN Huishuang (**Bachelor thesis**, 2023): *Monthly near-surface changes over China and its connection to natural internal variability*, Yunnan University
+5. XU Yang (**Bachelor thesis**, 2024):  *Dominant modes of near-surface wind speed in China*, Yunnan University & University of Chinese Academy of Sciences
 
 ## 👨🏻‍ <span style="color:#1E90FF">Presentation</span>
 ------
