@@ -17,13 +17,13 @@ redirect_from:
 
 ## 👨‍💻 <span style="color:#1E90FF">Work Experience</span>
 ------
-* 2018-2022: **Researcher** , China
+* 2018-2022: **Research Engineer** , China
   * Nanjing Meteorological Bureau
 * 2023: **Visiting**, Spain
   * CLIMate, ATmosphere and OCean-LABoratory (CLIMATOC-LAB)
   * Spanish National Research Council (CSIC-UV-GVA)
   * Desertificacion Research Centre (CIDE)
-* 2024: **Researcher**, Sweden
+* 2024: **Post-doc Researcher**, Sweden
   * Regional Climate Group
   * University of Gothenburg
 
@@ -36,8 +36,10 @@ redirect_from:
 
 ## 🏯 <span style="color:#1E90FF">Project</span>
 ------
-* ***Swedish VR*** : *A New Interdisciplinary Framework for Studying the Relation between Climate Change and Migration*
-* ***Swedish FORMAS*** : *Impact of climate variation and change on offshore wind energy potential*
+* ***Adlerbertska forskningsstiftelsen*** : *Offshore wind energy changes under climate change*, **Leading**
+* ***Längmanska Kulturfonden*** : *Wind drought resource over Europe*, **Leading**
+* ***Swedish VR*** : *A New Interdisciplinary Framework for Studying the Relation between Climate Change and Migration*, **Participating**
+* ***Swedish FORMAS*** : *Impact of climate variation and change on offshore wind energy potential*, **Participating** 
  
 
 ## 🧑🏻‍🏫 <span style="color:#1E90FF">Teaching</span>
