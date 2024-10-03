@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I'm a researcher working on the near-surface wind speed change at Regional Climate Group [(RCG)](http://rcg.gvc.gu.se/) in University Gothenburg.   
+👨🏻‍💻 I'm a climatologist working on the near-surface wind speed change at the Regional Climate Group [(RCG)](http://rcg.gvc.gu.se/), University Gothenburg.   
 
-🔬 My research interests are wind speed change and wind energy, my work aims to find the potential causes to changes in wind speed and wind extreme events, using a combination of observationas, reanalysis and simulation models.
+🔬 My research focuses on near-surface wind speed changes, particularly understanding the driving factors behind shifts in wind speeds and extreme wind events. Using a combination of observations, reanalysis datasets, and simulation models, I aim to provide insights that benefit the fields of wind energy and climate impact assessments. I am passionate about exploring the relationship between wind climatology and renewable energy, and how evolving wind patterns affect wind energy potential. My research contributes to global efforts to mitigate climate change through more effective utilization of wind resources.
 
-📽️ Collaborations are welcome.
-
+📽️ Collaborations are always welcome, feel free to get in touch!
 
 
 # Featured research
