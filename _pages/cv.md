@@ -58,6 +58,7 @@ I am/was a Teaching Assistant for the following courses:
 3. Bromwel Apondi (**Master thesis**, 2022): *Wind speed and wind energy changes over East-Africa*, University of Gothenburg
 4. YUAN Huishuang (**Bachelor thesis**, 2023): *Monthly near-surface changes over China and its connection to natural internal variability*, Yunnan University
 5. XU Yang (**Bachelor thesis**, 2024):  *Dominant modes of near-surface wind speed in China*, Yunnan University & University of Chinese Academy of Sciences
+6. WANG Zihan (**Bachelor thesis**, 2025): *Differenct types of Land use and Land cover change impact on the changes in near-surface wind speed: a case study in China*
 
 ## 👨🏻‍ <span style="color:#1E90FF">Presentation</span>
 ------
