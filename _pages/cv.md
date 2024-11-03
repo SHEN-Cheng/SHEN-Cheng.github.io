@@ -140,7 +140,7 @@ I am/was a Teaching Assistant for the following courses:
 
 ## 🏢 <span style="color:#1E90FF">Address</span>
 ------
-Guldhedsgatan 5A \
+Medicinaregatan 19 \
 Earth Sciences Centre, \
 Göteborg University \
 Box 460 \
