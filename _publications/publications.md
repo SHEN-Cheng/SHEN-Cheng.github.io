@@ -12,7 +12,7 @@ author_profile: true
 
 ## <span style="color:#1E90FF">Peer-reviewed journal papers</span>
 ------
-(Updated on October 2024) 
+(Updated on October 2024)  
 Overview: Published 7 first-author and 5 last-author manuscripts, totaling 3 as corresponding author.
 ### <span style="color:#1E90FF">2024</span> 
 ------
