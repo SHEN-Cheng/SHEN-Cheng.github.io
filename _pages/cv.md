@@ -37,7 +37,7 @@ redirect_from:
 ## 🏯 <span style="color:#1E90FF">Project</span>
 ------
 * ***Adlerbertska forskningsstiftelsen*** : *Offshore wind energy changes under climate change*, **Leading**
-* ***Längmanska Kulturfonden*** : *Wind drought resource over Europe*, **Leading**
+* ***Längmanska Kulturfonden*** : *Wind drought events over Europe*, **Leading**
 * ***Swedish VR*** : *A New Interdisciplinary Framework for Studying the Relation between Climate Change and Migration*, **Participating**
 * ***Swedish FORMAS*** : *Impact of climate variation and change on offshore wind energy potential*, **Participating** 
  
