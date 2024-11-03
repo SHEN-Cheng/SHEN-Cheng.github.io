@@ -12,8 +12,8 @@ author_profile: true
 
 ## <span style="color:#1E90FF">Peer-reviewed journal papers</span>
 ------
-(Updated on October 2024)  
-Overview: Published 7 first-author, 7 second-author, 5 last-author manuscripts, and 3 as corresponding author.
+*Updated on October 2024*  
+**Overview**: Published 7 first-author, 7 second-author, 5 last-author manuscripts, and 3 as corresponding author.
 ### <span style="color:#1E90FF">2024</span> 
 ------
 14. Li, Z. B., Xu, Y., Yuan, H. S., Chang, Y., and **Shen, C.** ✉ (2024). AMO footprint of the recent near-surface wind speed change over China. _**Environmental Research Letters**_, [https://doi.org/10.1088/1748-9326/ad7ee4](https://doi.org/10.1088/1748-9326/ad7ee4).
