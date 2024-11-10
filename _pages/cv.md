@@ -17,7 +17,7 @@ redirect_from:
 
 ## 👨‍💻 <span style="color:#1E90FF">Work Experience</span>
 ------
-* 2018-2022: **Research Engineer** , China
+* 2018-2022: **Research Engineer**, China
   * Nanjing Meteorological Bureau
 * 2023: **Visiting**, Spain
   * CLIMate, ATmosphere and OCean-LABoratory (CLIMATOC-LAB)
