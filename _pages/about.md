@@ -29,6 +29,9 @@ Offshore wind farms, a rapidly expanding sector within wind energy, are playing 
 ![EASJ](/images/Figure S6.jpg){: .align-right width="330px"} 
 A general decrease (stilling) that ceased around 2011, followed by a general significant increasing tendency (reversal) in all months but March over China. Indeed, March's wind series after 2011 showed a pause (i.e., hiatus) from the 1979–2011 slowdown. This hiatus was mainly caused by the general wind reduction across northern China since 2011, which differs from the wind increase observed in other regions. The slowdown in March from 2011 to 2020 is related to the southward shift of East Asian subtropical jet streams, which are fast‐flowing, narrow, and meandering air currents in the upper atmosphere (a). Jet streams play an important role in shaping both upper and lower air circulation and influence surface wind by transporting high and low‐pressure systems.
 <br>
+## Robust reduction in wind speed after volcanice eruptions
+![EASJ](/images/volcanics.webp){: .align-right width="330px"} 
+Using simulations spanning the past millennium, we identify a consistent two-year global reduction in NSWS following ten major volcanic eruptions. This decrease, equivalent to two inter-annual standard deviations, is driven by volcanic aerosols weakening subtropical descending air and reducing downward momentum flux. The 1815 Tambora eruption, one of history's most powerful events, caused a ~9.2% decline in global wind power density over the subsequent two years. Our findings address a critical knowledge gap, provide a theoretical basis for future empirical studies, and highlight potential risks of wind energy deficits caused by large-scale atmospheric aerosol injections from volcanic eruptions, nuclear conflicts, or geoengineering efforts. This research is featured in the **journal cover**.
 <br>
 <br>
 <br>
