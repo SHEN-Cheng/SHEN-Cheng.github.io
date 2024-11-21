@@ -16,7 +16,7 @@ author_profile: true
 **Overview**: Published 7 first-author, 5 last-author manuscripts, and 3 as corresponding author.
 ### <span style="color:#1E90FF">2024</span> 
 ------
-15. **Shen, C.**, Li, Z. B., Liu, F., Chen, H. W., and Chen, D. (2025). A Robust Reduction in Near-Surface Wind Speed After Volcanic Eruptions: Implications for Wind Energy Generation. _**The Innovation**_. In press. _**Highlighted on the Journal Cover**_
+15. **Shen, C.**, Li, Z. B., Liu, F., Chen, H. W., and Chen, D. (2025). A Robust Reduction in Near-Surface Wind Speed After Volcanic Eruptions: Implications for Wind Energy Generation. _**The Innovation**_. [https://doi.org/10.1016/j.xinn.2024.100734](https://doi.org/10.1016/j.xinn.2024.100734). _**Highlighted on the Journal Cover**_
 
 
 ### <span style="color:#1E90FF">2024</span> 
