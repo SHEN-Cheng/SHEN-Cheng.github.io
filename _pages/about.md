@@ -10,7 +10,7 @@ redirect_from:
 
 👨🏻‍💻 I'm a climatologist working on the near-surface wind speed change at the Regional Climate Group [(RCG)](https://www.gu.se/en/research/rcg-regional-climate-group), University of Gothenburg.   
 
-🔬 My research focuses on near-surface wind speed changes, particularly understanding the driving factors behind shifts in wind speeds and extreme wind events. Using a combination of observations, reanalysis datasets, and simulation models, I aim to provide insights that benefit the fields of wind energy and climate impact assessments. I am passionate about exploring the relationship between wind climatology and renewable energy, and how evolving wind patterns affect wind energy potential. My research contributes to global efforts to mitigate climate change through more effective utilization of wind resources.
+🔬 My research focuses on near-surface wind speed changes, particularly understanding the driving factors behind shifts in wind speeds and extreme wind events. Using a combination of observations, reanalysis datasets, and simulation models, I aim to provide insights that benefit the fields of wind energy and climate impact assessments. Our recent research has been reported by [_**The Guardian**_](https://www.theguardian.com/news/article/2024/sep/05/global-heating-could-raise-potential-for-offshore-wind-power-study-says), [_**AGU News**_](https://news.agu.org/8-7-24-warmer-climates-could-mean-more-wind-power/) and the [_**University of Gothenburg**_](https://www.gu.se/en/news/increased-offshore-wind-potential-in-a-warmer-world), and one study has been selected as the [_**Journal Cover**_](https://doi.org/10.1016/j.xinn.2024.100734). I currently lead three projects and contribute to two others in Sweden, and have supervised three BSc and two MSc students over the past five years.
 
 📽️ Collaborations are always welcome, feel free to get in touch!
 
@@ -34,8 +34,8 @@ A general decrease (stilling) that ceased around 2011, followed by a general sig
 <br>
 <br>
 ## Robust reduction in wind speed after volcanic eruptions
-![EASJ](/images/volcanics.webp){: .align-right width="300px"} 
-Using simulations spanning the past millennium, we identify a consistent two-year global reduction in NSWS following ten major volcanic eruptions. This decrease, equivalent to two inter-annual standard deviations, is driven by volcanic aerosols weakening subtropical descending air and reducing downward momentum flux. The 1815 Tambora eruption, one of history's most powerful events, caused a ~9.2% decline in global wind power density over the subsequent two years. Our findings address a critical knowledge gap, provide a theoretical basis for future empirical studies, and highlight potential risks of wind energy deficits caused by large-scale atmospheric aerosol injections from volcanic eruptions, nuclear conflicts, or geoengineering efforts. This research is featured in the **journal cover**.
+![EASJ](/images/The_innovation_Cover){: .align-right width="300px"} 
+Using simulations spanning the past millennium, we identify a consistent two-year global reduction in NSWS following ten major volcanic eruptions. This decrease, equivalent to two inter-annual standard deviations, is driven by volcanic aerosols weakening subtropical descending air and reducing downward momentum flux. The 1815 Tambora eruption, one of history's most powerful events, caused a ~9.2% decline in global wind power density over the subsequent two years. Our findings address a critical knowledge gap, provide a theoretical basis for future empirical studies, and highlight potential risks of wind energy deficits caused by large-scale atmospheric aerosol injections from volcanic eruptions, nuclear conflicts, or geoengineering efforts. This research is featured in the [_**Journal Cover**_](https://doi.org/10.1016/j.xinn.2024.100734).
 <br>
 
 <br>
