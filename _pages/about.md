@@ -34,7 +34,7 @@ A general decrease (stilling) that ceased around 2011, followed by a general sig
 <br>
 <br>
 ## Robust reduction in wind speed after volcanic eruptions
-![EASJ](/images/The_innovation_Cover.png){: .align-right width="300px"} 
+![EASJ](/images/Innovation-2025.png){: .align-right width="300px"} 
 Using simulations spanning the past millennium, we identify a consistent two-year global reduction in NSWS following ten major volcanic eruptions. This decrease, equivalent to two inter-annual standard deviations, is driven by volcanic aerosols weakening subtropical descending air and reducing downward momentum flux. The 1815 Tambora eruption, one of history's most powerful events, caused a ~9.2% decline in global wind power density over the subsequent two years. Our findings address a critical knowledge gap, provide a theoretical basis for future empirical studies, and highlight potential risks of wind energy deficits caused by large-scale atmospheric aerosol injections from volcanic eruptions, nuclear conflicts, or geoengineering efforts. This research is featured in the [_**Journal Cover**_](https://doi.org/10.1016/j.xinn.2024.100734).
 <br>
 
