@@ -13,7 +13,7 @@ author_profile: true
 ## <span style="color:#1E90FF">Peer-reviewed journal papers</span>
 ------
 *Updated in December 2024*  
-**Overview**: Published 7 first-author, 5 last-author manuscripts.
+**Overview**: Published 7 first-author, 5 senior-author manuscripts.
 ### <span style="color:#1E90FF">2025</span> 
 ------
 15. **Shen, C.**, Li, Z. B., Liu, F., Chen, H. W., and Chen, D. (2025). A Robust Reduction in Near-Surface Wind Speed After Volcanic Eruptions: Implications for Wind Energy Generation. _**The Innovation**_. [https://doi.org/10.1016/j.xinn.2024.100734](https://doi.org/10.1016/j.xinn.2024.100734). _**Highlighted on the Journal Cover**_
