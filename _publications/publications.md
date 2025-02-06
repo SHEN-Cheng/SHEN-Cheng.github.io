@@ -16,7 +16,7 @@ author_profile: true
 **Overview**: Published 7 first-author, 5 senior-author manuscripts.
 ### <span style="color:#1E90FF">2025</span> 
 ------
-15. **Shen, C.**, Li, Z. B., Liu, F., Chen, H. W., and Chen, D. (2025). A Robust Reduction in Near-Surface Wind Speed After Volcanic Eruptions: Implications for Wind Energy Generation. _**The Innovation**_. [https://doi.org/10.1016/j.xinn.2024.100734](https://doi.org/10.1016/j.xinn.2024.100734). _**Highlighted on the [Journal Cover](https://www.cell.com/the-innovation/issue?pii=S2666-6758(24)X0007-7)**_, featured in [_**The Guardian**_](https://www.theguardian.com/news/2025/feb/06/weatherwatch-volcanic-eruptions-pose-challenge-for-wind-energy-says-study)
+15. **Shen, C.**, Li, Z. B., Liu, F., Chen, H. W., and Chen, D. (2025). A Robust Reduction in Near-Surface Wind Speed After Volcanic Eruptions: Implications for Wind Energy Generation. _**The Innovation**_. [https://doi.org/10.1016/j.xinn.2024.100734](https://doi.org/10.1016/j.xinn.2024.100734). _**Highlighted on the [Journal Cover](https://www.cell.com/the-innovation/issue?pii=S2666-6758(24)X0007-7)**_, _**featured**_ in [_**The Guardian**_](https://www.theguardian.com/news/2025/feb/06/weatherwatch-volcanic-eruptions-pose-challenge-for-wind-energy-says-study)
 
 
 ### <span style="color:#1E90FF">2024</span> 
