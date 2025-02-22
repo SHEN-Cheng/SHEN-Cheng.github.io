@@ -75,7 +75,14 @@ I am/was a Teaching Assistant for the following courses:
 11. 2023, Bratislava, Slovakia. EMS 2023, _Projection of the near-surface wind speed based on CMIP6 GCMs and its uncertainties_ (Poster)
 12. 2024, Vienna, Austria. EGU 2024, _East Asian Subtropical Jet Impact on Monthly Near-surface Wind Speed Change over China_ (Poster)
 
-# 🎚️ <span style="color:#1E90FF">Service</span>
+## 📺 <span style="color:#1E90FF">Media</span>
+------
+1. GU, Sweden: [Strong volcanic eruptions affect terrestrial wind power potential](https://www.gu.se/en/news/vindenergi), 2024
+2. AGU News, US: [Warmer climates could mean more wind power](https://news.agu.org/8-7-24-warmer-climates-could-mean-more-wind-power/), 2024
+3. The Guardian, UK: [Global heating could raise potential for offshore wind power, study says](https://www.theguardian.com/news/article/2024/sep/05/global-heating-could-raise-potential-for-offshore-wind-power-study-says), 2024
+4. The Guardian, UK: [Volcanic eruptions pose challenge for wind energy, says study](https://www.theguardian.com/news/2025/feb/06/weatherwatch-volcanic-eruptions-pose-challenge-for-wind-energy-says-study), 2025
+5. Wechat Channel, China: Highlight on Cover of The Innovation Volume 6 Issue 1, 2025
+6. Lowa Climate Science Education, [The Seven Year Hitch](https://iowaclimate.org/2024/09/05/the-seven-year-hitch/), 2024
 ------
 ## 🏅 <span style="color:#1E90FF">Awards and Honors</span>
 ------
@@ -133,13 +140,6 @@ I am/was a Teaching Assistant for the following courses:
 1. Leader of the WeChat Official Account team called '微信公众号：气海无涯', which is focused on publishing Python tutorials related to atmospheric science (more than ten thousand subscribers). Through this platform, we have successfully published over 100 tutorials, covering a wide range of topics in atmospheric science, you can scan on the QR code through wechat to subscribe it.
 2. Member of the _GOTHENBURG CENTRE FOR SUSTAINABLE DEVELOPMENT_ (**GMV**): Acting for sustainability through knowledge and collaboration
 3. Member of the [_Future Earth_](https://members.futureearth.org/users/3831771)
-4. 
-## 📺 <span style="color:#1E90FF">Media</span>
-------
-1. GU, Sweden: [Strong volcanic eruptions affect terrestrial wind power potential](https://www.gu.se/en/news/vindenergi), 2024
-2. AGU News, US: [Warmer climates could mean more wind power](https://news.agu.org/8-7-24-warmer-climates-could-mean-more-wind-power/), 2024
-3. The Guardian, UK: [Global heating could raise potential for offshore wind power, study says](https://www.theguardian.com/news/article/2024/sep/05/global-heating-could-raise-potential-for-offshore-wind-power-study-says), 2024
-4. The Guardian, UK: [Volcanic eruptions pose challenge for wind energy, says study](https://www.theguardian.com/news/2025/feb/06/weatherwatch-volcanic-eruptions-pose-challenge-for-wind-energy-says-study), 2025
 
 ## 🤙 <span style="color:#1E90FF">Contact</span>
 ------
