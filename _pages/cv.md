@@ -83,7 +83,8 @@ I am/was a Teaching Assistant for the following courses:
 4. The Guardian, UK: [Volcanic eruptions pose challenge for wind energy, says study](https://www.theguardian.com/news/2025/feb/06/weatherwatch-volcanic-eruptions-pose-challenge-for-wind-energy-says-study), 2025
 5. Wechat Channel, China: Highlight on Cover of The Innovation Volume 6 Issue 1, 2025
 6. Lowa Climate Science Education, [The Seven Year Hitch](https://iowaclimate.org/2024/09/05/the-seven-year-hitch/), 2024
-------
+
+
 ## 🏅 <span style="color:#1E90FF">Awards and Honors</span>
 ------
 1. 2022, Research Fund Adlerbertska Stiftelse, Sweden
