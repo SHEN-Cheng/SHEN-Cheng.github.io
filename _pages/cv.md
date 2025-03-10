@@ -74,6 +74,8 @@ I am/was a Teaching Assistant for the following courses:
 10. 2023, Vienna, Austria. EGU 2023, _Evaluation and projection of global terrestrial near-surface wind speed based on CMIP6 GCMs_ (Oral)
 11. 2023, Bratislava, Slovakia. EMS 2023, _Projection of the near-surface wind speed based on CMIP6 GCMs and its uncertainties_ (Poster)
 12. 2024, Vienna, Austria. EGU 2024, _East Asian Subtropical Jet Impact on Monthly Near-surface Wind Speed Change over China_ (Poster)
+13. 2025, Vienna, Austria. EGU 2025, _Enhanced Offshore Wind Potential in a Warming Climate_ (Poster)
+14. 2025, Vienna, Austria. EGU 2025, _Quanatifying the contributions of internal varibility in South Asian near-surface wind speed_ (Oral)
 
 ## 📺 <span style="color:#1E90FF">Media</span>
 ------
