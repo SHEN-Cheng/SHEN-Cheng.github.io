@@ -99,6 +99,11 @@ I am/was a Teaching Assistant for the following courses:
 8. 2024, Adlerbertska Forskningsstiftelsen (AF2024-0069), Sweden
 9. 2024, STIFTELSEN ÅFORSK (24707), Sweden
 
+## ✒️ <span style="color:#1E90FF">Community Service</span>
+------
+1. 2024-Now, Youth Editor of The Innovation
+
+
 
 ## 🛠️ <span style="color:#1E90FF">Skills</span>
 ------
