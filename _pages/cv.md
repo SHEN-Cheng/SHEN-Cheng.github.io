@@ -98,6 +98,7 @@ I am/was a Teaching Assistant for the following courses:
 7. 2024, Längmanska Kulturfonden (BA24-0484), Sweden
 8. 2024, Adlerbertska Forskningsstiftelsen (AF2024-0069), Sweden
 9. 2024, STIFTELSEN ÅFORSK (24707), Sweden
+10. 2025, Youth editor of _The Innovation_, Cell Press
 
 ## ✒️ <span style="color:#1E90FF">Community Service</span>
 ------
