@@ -15,10 +15,8 @@ redirect_from:
 - 2018, **M.S.** in Meteorology, East China Normal University, China
 - 2024,  **Ph.D** in Climatology, University of Gothenburg, Sweden
 
-## 👨‍💻 <span style="color:#1E90FF">Work Experience</span>
+## 👨‍💻 <span style="color:#1E90FF">Academa Experience</span>
 ------
-* 2018-2022: **Research Engineer**, China
-  * Nanjing Meteorological Bureau
 * 2023: **Visiting**, Spain
   * CLIMate, ATmosphere and OCean-LABoratory (CLIMATOC-LAB)
   * Spanish National Research Council (CSIC-UV-GVA)
