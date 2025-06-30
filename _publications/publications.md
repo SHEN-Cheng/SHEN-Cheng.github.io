@@ -12,8 +12,8 @@ author_profile: true
 
 ## <span style="color:#1E90FF">Peer-reviewed journal papers</span>
 ------
-*Updated in April 2025*  
-**Overview**: Published 7 first-author, 6 senior-author manuscripts.
+*Updated in June 2025*  
+**Overview**: Published 7 first-author, 7 senior-author manuscripts.
 ### <span style="color:#1E90FF">2025</span> 
 ------
 15. Yuan, H. S., Piao, J., Chang, Y., **Shen, C.** ✉ (2025). Simulated and Projected Near-Surface Wind Speed in High-Resolution Model Intercomparison Project Climate Dynamics. _**Climate Dynamics**_, In Press
