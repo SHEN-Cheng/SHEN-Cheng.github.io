@@ -13,26 +13,27 @@ author_profile: true
 ## <span style="color:#1E90FF">Peer-reviewed journal papers</span>
 ------
 *Updated in June 2025*
-<sup>**☨**</sup> Student advisees
-<sup>✉</sup> Correspondence
+**☨** Student advisees 
+**✉** Correspondence 
+
 **Overview**: Published 7 first-author, 7 senior-author manuscripts.
 ### <span style="color:#1E90FF">2025</span> 
 ------
-15. Yuan, H. S.<sup>**☨**</sup>, Piao, J., Chang, Y., **Shen, C.** ✉ (2025). Simulated and Projected Near-Surface Wind Speed in High-Resolution Model Intercomparison Project Climate Dynamics. _**Climate Dynamics**_, In Press
+15. Yuan, H. S.<sup>**☨**</sup>, Piao, J., Chang, Y., **Shen, C.** <sup>✉</sup> (2025). Simulated and Projected Near-Surface Wind Speed in High-Resolution Model Intercomparison Project Climate Dynamics. _**Climate Dynamics**_, In Press
 16. **Shen, C.**, Li, Z. B., Liu, F., Chen, H. W., and Chen, D. (2025). A Robust Reduction in Near-Surface Wind Speed After Volcanic Eruptions: Implications for Wind Energy Generation. _**The Innovation**_. [https://doi.org/10.1016/j.xinn.2024.100734](https://doi.org/10.1016/j.xinn.2024.100734). _**Highlighted on the [Journal Cover](https://www.cell.com/the-innovation/issue?pii=S2666-6758(24)X0007-7)**_, _**featured in**_ [_**The Guardian**_](https://www.theguardian.com/news/2025/feb/06/weatherwatch-volcanic-eruptions-pose-challenge-for-wind-energy-says-study)
-17. Li, Z. B., Sun, M., **Shen, C.** ✉, & Chen, D. (2025). ENSO‐driven seasonal variability in near‐surface wind speed and wind power potential across China. _**Geophysical Research Letters**_, [https://doi.org/10.1029/2025GL115537](https://doi.org/10.1029/2025GL115537).
+17. Li, Z. B., Sun, M., **Shen, C.** <sup>✉</sup>, & Chen, D. (2025). ENSO‐driven seasonal variability in near‐surface wind speed and wind power potential across China. _**Geophysical Research Letters**_, [https://doi.org/10.1029/2025GL115537](https://doi.org/10.1029/2025GL115537).
 
 
 ### <span style="color:#1E90FF">2024</span> 
 ------
-14. Li, Z. B., Xu, Y., Yuan, H. S., Chang, Y., and **Shen, C.** ✉ (2024). AMO footprint of the recent near-surface wind speed change over China. _**Environmental Research Letters**_, [https://doi.org/10.1088/1748-9326/ad7ee4](https://doi.org/10.1088/1748-9326/ad7ee4).
+14. Li, Z. B., Xu, Y., Yuan, H. S., Chang, Y., and **Shen, C.** <sup>✉</sup> (2024). AMO footprint of the recent near-surface wind speed change over China. _**Environmental Research Letters**_, [https://doi.org/10.1088/1748-9326/ad7ee4](https://doi.org/10.1088/1748-9326/ad7ee4).
 15. Yang, X., **Shen, C.**, Ullah, I., Curio, J., & Chen, D. (2024). Evaluating heat stress and occupational risks in the Southern Himalayas under current and future climates. _**npj Climate and Atmospheric Science**_, [https://doi.org/10.1038/s41612-024-00764-5](https://doi.org/10.1038/s41612-024-00764-5)
 17. **Shen, C.**, Li, Z. B., Yuan, H. S., Yu, Y., Lei, Y., and Chen, D. (2024). Increases of Offshore Wind Potential in a Warming World. _**Geophysical Research Letters**_, [https://doi.org/10.1029/2024GL109494](https://doi.org/10.1029/2024GL109494), featured in [_**The Guardian**_](https://www.theguardian.com/news/article/2024/sep/05/global-heating-could-raise-potential-for-offshore-wind-power-study-says), [_**AGU News**_](https://news.agu.org/8-7-24-warmer-climates-could-mean-more-wind-power/) and the [_**University of Gothenburg**_](https://www.gu.se/en/news/increased-offshore-wind-potential-in-a-warmer-world).
 18. Chuan, T., Wu, T., Zha, J., Zhao, D., **Shen, C.**, Fan, W., and Jiang, H. (2024). Asynchronous changes in terrestrial near-surface wind speed among regions across China from 1973 to 2017, _**Atmospheric Research**_. [https://doi.org/10.1016/j.atmosres.2024.107220](https://doi.org/10.1016/j.atmosres.2024.107220)
 19. Liu, Y., Zhou, L., Qin, Y., Azorin-Molina, C., **Shen, C.**, Xu, R., and Zeng, Z. (2024). Impacts of anemometer changes, site relocations and processing methods on wind speed trends in China, **Atmos. Meas. Tech. Discuss.**, [https://doi.org/10.5194/amt-2023-58](https://amt.copernicus.org/articles/17/1123/2024/)
 20. Deng, K., Liu, W., Li, H., Yang, S., Lian, T., Zhang, G., Zha, J., **Shen, C.**, and Chen, D., (2024). The offshore wind speed changes in China: an insight into CMIP6 model simulation and future projections. _**Climate Dynamics**_, [https://doi.org/10.1007/s00382-023-07066-1#Ack1](https://link.springer.com/article/10.1007/s00382-023-07066-1#Ack1)
 21. Yang, X., Zhang, S., **Shen, C.**, and Chen, D. (2024). Summer long-lived heatwaves in Northeast Asia promote heavy precipitation in South China, _**Atmospheric Research**_, [https://doi.org/10.1016/j.atmosres.2024.107244](https://doi.org/10.1016/j.atmosres.2024.107244)
-22. Yu, Y., Li, Z., Yan, Z., Yuan, H., and **Shen, C.** ✉, (2024). Projected Emergence Seasons of Year-maximum Near-Surface Wind Speed,  _**Geophysical Research Letters**_, [https://doi.org/10.1029/2023GL107543](https://doi.org/10.1029/2023GL107543)
+22. Yu, Y., Li, Z., Yan, Z., Yuan, H., and **Shen, C.** <sup>✉</sup>, (2024). Projected Emergence Seasons of Year-maximum Near-Surface Wind Speed,  _**Geophysical Research Letters**_, [https://doi.org/10.1029/2023GL107543](https://doi.org/10.1029/2023GL107543)
 23. Yang, X., Gang, Z., Zhang, S., Iyakaremye, V., **Shen, C.**, Wang, W., and Chen, D., (2024). Phase-locked Wave-4 Pattern Dominates the Concurrent Summer Heat Extremes in the Northern Hemisphere,  _**Geophysical Research Letters**_, [https://doi.org/10.1029/2023GL107106](https://doi.org/10.1029/2023GL107106)
 24. Yang, X., **Shen, C.**, Zhang, G., Chen, D., (2024). Enhanced spring warming of the Tibetan Plateau amplifies summer heat stress in Eastern Europe. _**Climate Dynamics**_, [https://link.springer.com/article/10.1007/s00382-024-07197-z](https://link.springer.com/article/10.1007/s00382-024-07197-z)
 25. Zha, J., Chuan, T., Wu, J., Zhao, D., Luo, M., Feng, J., Fan, W., **Shen, C.**, Jiang, H., (2024). Attribution of Terrestrial Near-Surface Wind Speed Changes Across China at a Centennial Scale. _**Geophysical Research Letters**_, [https://doi.org/10.1029/2024GL108241](https://doi.org/10.1029/2024GL108241)
@@ -40,7 +41,7 @@ author_profile: true
 ### <span style="color:#1E90FF">2023</span> 
 ------
 13. Minola, L., Zhang, G., Ou, T., Kukulies, J., Curio, J., Guijarro, J.A., Deng, K., Azorin-Molina, C., **Shen, C.**, Pezzoli, A. and Chen, D. (2023). Climatology of near-surface wind speed from observations and high-resolution climate models over the Tibetan Plateau. _**Climate Dynamics**_ (2023). [https://doi.org/10.1007/s00382-023-06931-3](https://doi.org/10.1007/s00382-023-06931-3)
-14. Andres-Martin, M., Azorin-Molina, C., **Shen, C.** ✉, Fernánde-zÁlvarez, J., Gimeno, L., and Zha, J. (2023). Uncertainty in surface wind speed projections over the Iberian Peninsula: CMIP6 GCMs vs. a WRF-RCM.  _**Annals of the New York Academy of Sciences**_, [https://doi.org/10.1111/nyas.15063](https://doi.org/10.1111/nyas.15063)
+14. Andres-Martin, M., Azorin-Molina, C., **Shen, C.** <sup>✉</sup>, Fernánde-zÁlvarez, J., Gimeno, L., and Zha, J. (2023). Uncertainty in surface wind speed projections over the Iberian Peninsula: CMIP6 GCMs vs. a WRF-RCM.  _**Annals of the New York Academy of Sciences**_, [https://doi.org/10.1111/nyas.15063](https://doi.org/10.1111/nyas.15063)
 15. **Shen, C.**, Yuan, H., Li, Z., Yang, X., Minola, L., Chang, Y., and Chen, D. (2023). March Near-surface Wind Speed Hiatus over China since 2011. _**Geophysical Research Letters**_, 50, e2023GL104230, [https://doi.org/10.1029/2023GL104230](https://doi.org/10.1029/2023GL104230)
 16. Minola, L., Lönn, J., Azorin-Molina, C., Zhou, C., Engström, E., Wern, L., Hellström, S., Zhang, G., **Shen, C.**, Chen, D. (2023). The contribution of large-scale atmospheric circulation to variations of observed near-surface wind speed across Sweden since 1926. _**Climatic Change**_, 54, [https://doi.org/10.1007/s10584-023-03525-0](https://link.springer.com/article/10.1007/s10584-023-03525-0#citeas)
 17. Azorin-Molina, C., Pirooz, A.A.S., Bedoya-Valestt, S., Utrabo-Carazo, E., Andres-Martin, M.,  **Shen, C.**, Minola, L., Guijarro, J., Aguilar Anfrons, E., Brunet, M. and Flay, R.G., Biases in Wind Speed Measurements Due to Anemometer Changes. _**Atmospheric Research**_, 289, 106771. [https://doi.org/10.1016/j.atmosres.2023.106771](https://doi.org/10.1016/j.atmosres.2023.106771)
