@@ -12,9 +12,10 @@ author_profile: true
 
 ## <span style="color:#1E90FF">Peer-reviewed journal papers</span>
 ------
-*Updated in June 2025*
-**☨** Student advisees 
-**✉** Correspondence 
+
+**☨** Student advisees  
+**✉** Correspondence  
+*Updated in June 2025*  
 
 **Overview**: Published 7 first-author, 7 senior-author manuscripts.
 ### <span style="color:#1E90FF">2025</span> 
