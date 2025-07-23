@@ -20,8 +20,7 @@ author_profile: true
 
 ### <span style="color:#1E90FF">2025</span> 
 ------
-15. Yuan, H. S.<sup>**☨**</sup>, Piao, J., Chang, Y., and **Shen, C.** <sup>✉</sup> (2025). Simulated and Projected Near-Surface Wind Speed in High-Resolution Model Intercomparison Project Climate Dynamics. _**Climate Dynamics**_, [10.1007/s00382-025-07792-8
-](10.1007/s00382-025-07792-8)
+15. Yuan, H. S.<sup>**☨**</sup>, Piao, J., Chang, Y., and **Shen, C.** <sup>✉</sup> (2025). Simulated and Projected Near-Surface Wind Speed in High-Resolution Model Intercomparison Project Climate Dynamics. _**Climate Dynamics**_, [https://doi.org/10.1007/s00382-025-07792-8](https://doi.org/10.1007/s00382-025-07792-8)
 16. **Shen, C.**, Li, Z. B., Liu, F., Chen, H. W., and Chen, D. (2025). A Robust Reduction in Near-Surface Wind Speed After Volcanic Eruptions: Implications for Wind Energy Generation. _**The Innovation**_. [https://doi.org/10.1016/j.xinn.2024.100734](https://doi.org/10.1016/j.xinn.2024.100734). _**Highlighted on the [Journal Cover](https://www.cell.com/the-innovation/issue?pii=S2666-6758(24)X0007-7)**_, _**featured in**_ [_**The Guardian**_](https://www.theguardian.com/news/2025/feb/06/weatherwatch-volcanic-eruptions-pose-challenge-for-wind-energy-says-study)
 17. Li, Z. B., Sun, M., **Shen, C.** <sup>✉</sup>, and Chen, D. (2025). ENSO‐driven seasonal variability in near‐surface wind speed and wind power potential across China. _**Geophysical Research Letters**_, [https://doi.org/10.1029/2025GL115537](https://doi.org/10.1029/2025GL115537).
 
