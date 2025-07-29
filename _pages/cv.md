@@ -53,6 +53,9 @@ I am/was a Teaching Assistant for the following courses:
 I am/was the course coordinator for the following course(s):
 - ***Climate Data Applications***
   - [ID: GVN345](https://www.gu.se/en/study-gothenburg/climate-data-applications-gvn345). Responsible for lectures and hands-on Python programming sessions; Autumn  2025
+ 
+
+
 ## 👨🏻‍🔬 <span style="color:#1E90FF">Supervision</span>
 ------
 1. YU Yue (**Climate Engineer**, 2021): *[Does CRA-40 outperform other reanalysis products in evaluating near-surface wind speed changes over China?](https://www.sciencedirect.com/science/article/pii/S0169809521005044)* Nanjing Meteorological Bureau
