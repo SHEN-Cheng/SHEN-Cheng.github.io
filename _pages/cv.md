@@ -50,10 +50,6 @@ I am/was a Teaching Assistant for the following courses:
 - ***Climate Change and Society***
   - [ID: NG0220](https://www.gu.se/en/study-gothenburg/climate-change-and-society-ng0220). Lectured by Prof [Deliang Chen](https://www.gu.se/en/about/find-staff/deliangchen); Spring 2023
  
-I am/was the course coordinator for the following course(s):
-- ***Climate Data Applications***
-  - [ID: GVN345](https://www.gu.se/en/study-gothenburg/climate-data-applications-gvn345). Responsible for lectures and hands-on Python programming sessions; Autumn  2025
- 
 
 
 ## 👨🏻‍🔬 <span style="color:#1E90FF">Supervision</span>
