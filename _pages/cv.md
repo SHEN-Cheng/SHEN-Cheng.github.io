@@ -140,6 +140,7 @@ I am/was a Teaching Assistant for the following courses:
 <li>Swedish: Basic</li>
 </ul>
 </div>
+
 </div>
 
 ## 🗿 <span style="color:#1E90FF">Outreach</span>
