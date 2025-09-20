@@ -34,11 +34,11 @@ redirect_from:
 
 ## 🏯 <span style="color:#1E90FF">Project</span>
 ------
-* ***Adlerbertska forskningsstiftelsen*** : *Offshore wind energy changes under climate change*, **Leading**
-* ***STIFTELSEN ÅFORSK*** : *Wind varies with climate teleconnections*, **Leading**
-* ***Längmanska Kulturfonden*** : *Wind drought events over Europe*, **Leading**
-* ***Swedish VR*** : *A New Interdisciplinary Framework for Studying the Relation between Climate Change and Migration*, **Participating**
-* ***Swedish FORMAS*** : *Impact of climate variation and change on offshore wind energy potential*, **Participating** 
+* ***Adlerbertska forskningsstiftelsen***: *Offshore wind energy changes under climate change*, **Leading**
+* ***Stiftelsen ÅFORSK***: *Wind varies with climate teleconnections*, **Leading**
+* ***Längmanska Kulturfonden***: *Wind drought events over Europe*, **Leading**
+* ***Swedish VR***: *A New Interdisciplinary Framework for Studying the Relation between Climate Change and Migration*, **Participating**
+* ***Swedish FORMAS***: *Impact of climate variation and change on offshore wind energy potential*, **Participating** 
  
 
 ## 🧑🏻‍🏫 <span style="color:#1E90FF">Teaching</span>
@@ -92,12 +92,12 @@ I am/was a Teaching Assistant for the following courses:
 1. 2022, Research Fund Adlerbertska Stiftelse, Sweden
 2. 2023, Sven Lindqvists Forskningsstiftelse, Sweden
 3. 2023, Jonsered Foundation-Villa Martinson, Sweden
-4. 2023, ADLERBERT SCHOLARSHIPS, Sweden
+4. 2023, Adlerbert Scholarships, Sweden
 5. 2024, Jonsered Foundation-Villa Martinson, Sweden
-6. 2024, Award for Outstanding Self-financed Students Abroad, China
+6. 2024, Award for Outstanding Self-financed Students Abroad , China
 7. 2024, Längmanska Kulturfonden (BA24-0484), Sweden
 8. 2024, Adlerbertska Forskningsstiftelsen (AF2024-0069), Sweden
-9. 2024, STIFTELSEN ÅFORSK (24707), Sweden
+9. 2024, Stiftelsen ÅFORSK (24707), Sweden
 
 ## ✒️ <span style="color:#1E90FF">Community Service</span>
 ------
