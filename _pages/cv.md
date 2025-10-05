@@ -63,21 +63,21 @@ I am/was a Teaching Assistant for the following courses:
 
 ## 👨🏻‍ <span style="color:#1E90FF">Presentation</span>
 ------
-1. 2025, Vienna, Austria. EGU 2025, _Enhanced Offshore Wind Potential in a Warming Climate_ (Poster)
-2. 2025, Vienna, Austria. EGU 2025, _Quanatifying the contributions of internal varibility in South Asian near-surface wind speed_ (Oral)
-3. 2025, Nanjing, China. Nanjing University, _Individual roles of External forcings in near-surface wind speed_ (Invited seminar)
-4. 2025, Nanjing, China. Nanjing Normal University, _GHG emissions and Volcanic activities impacts on global land near-surface wind speed_ (Invited seminar)
-5. 2024, Vienna, Austria. EGU 2024, _East Asian Subtropical Jet Impact on Monthly Near-surface Wind Speed Change over China_ (Poster)
-6. 2023, Gothenburg, Sweden. GU-GEOseminar, _Near-surface wind speed change and its impact on wind energy_ (Oral)
-7. 2023, Vienna, Austria. EGU 2023, _Evaluation and projection of global terrestrial near-surface wind speed based on CMIP6 GCMs_ (Oral)
-8. 2023, Bratislava, Slovakia. EMS 2023, _Projection of the near-surface wind speed based on CMIP6 GCMs and its uncertainties_ (Poster)
-9. 2022, Vienna, Austria. EGU 2022, _Projected changes in near-surface wind speed over Iberian Peninsula and associated atmosphere-ocean oscillations_ (Oral)
-10. 2022, Singapore. AOGS 2022, _Future changes in terrestrial near-surface wind speed under specific global warming levels_ (Oral)
-11. 2022, Gothenburg, Sweden. GU-SMHI Wind workshop, _Near-surface wind speed changes over land: simulations from the CMIP6 GCMs_ (Oral)
-12. 2021, Guiyang, China, Regional Climate Change Monitoring and Detection, _Attribution of global near-surface wind Speed_ (Oral)
-13. 2021, Guiyang, China, Regional Climate Change Monitoring and Detection, _Assessment of offshore wind trends using global_ centennial reanalysis products (Poster)
-14. 2021, Beijing, China. Chinese Young Scientist Forum 2021, _Influencing factors of global Interdecadal land wind speed changes_ (Oral)
-15. 2021, Beijing, China. Chinese Climate Prediction and Climate Application Technology Forum 2021, _Detection and attribution of global near-surface wind speed_ (Oral)
+1. 2025, Vienna, Austria. **EGU 2025**, _Enhanced Offshore Wind Potential in a Warming Climate_ **Poster**
+2. 2025, Vienna, Austria. **EGU 2025**, _Quanatifying the contributions of internal varibility in South Asian near-surface wind speed_ **Oral**
+3. 2025, Nanjing, China. **Nanjing University**, _Individual roles of External forcings in near-surface wind speed_ **Invited seminar**
+4. 2025, Nanjing, China. **Nanjing Normal University**, _GHG emissions and Volcanic activities impacts on global land near-surface wind speed_ **Invited seminar
+5. 2024, Vienna, Austria. **EGU 2024**, _East Asian Subtropical Jet Impact on Monthly Near-surface Wind Speed Change over China_ Poster**
+6. 2023, Gothenburg, Sweden. **GU-GEOseminar**, _Near-surface wind speed change and its impact on wind energy_ **Oral**
+7. 2023, Vienna, Austria. **EGU 2023**, _Evaluation and projection of global terrestrial near-surface wind speed based on CMIP6 GCMs_ **Oral**
+8. 2023, Bratislava, Slovakia. **EMS 2023**, _Projection of the near-surface wind speed based on CMIP6 GCMs and its uncertainties_ **Poster**
+9. 2022, Vienna, Austria. **EGU 2022**, _Projected changes in near-surface wind speed over Iberian Peninsula and associated atmosphere-ocean oscillations_ **Oral**
+10. 2022, Singapore. **AOGS 2022**, _Future changes in terrestrial near-surface wind speed under specific global warming levels_ **Oral**
+11. 2022, Gothenburg, Sweden. **GU-SMHI Wind workshop**, _Near-surface wind speed changes over land: simulations from the CMIP6 GCMs_ **Oral**
+12. 2021, Guiyang, China, **Regional Climate Change Monitoring and Detection**, _Attribution of global near-surface wind Speed_ **Oral**
+13. 2021, Guiyang, China, **Regional Climate Change Monitoring and Detection**, _Assessment of offshore wind trends using global_ centennial reanalysis products **Poster**
+14. 2021, Beijing, China. **Chinese Young Scientist Forum**, _Influencing factors of global Interdecadal land wind speed changes_ **Oral**
+15. 2021, Beijing, China. **Chinese Climate Prediction and Climate Application Technology Forum**, _Detection and attribution of global near-surface wind speed_ **Oral**
 
 ## 📺 <span style="color:#1E90FF">Media</span>
 ------
