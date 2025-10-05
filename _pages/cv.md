@@ -66,8 +66,8 @@ I am/was a Teaching Assistant for the following courses:
 1. 2025, Vienna, Austria. **EGU 2025**, _Enhanced Offshore Wind Potential in a Warming Climate_ **Poster**
 2. 2025, Vienna, Austria. **EGU 2025**, _Quanatifying the contributions of internal varibility in South Asian near-surface wind speed_ **Oral**
 3. 2025, Nanjing, China. **Nanjing University**, _Individual roles of External forcings in near-surface wind speed_ **Invited seminar**
-4. 2025, Nanjing, China. **Nanjing Normal University**, _GHG emissions and Volcanic activities impacts on global land near-surface wind speed_ **Invited seminar
-5. 2024, Vienna, Austria. **EGU 2024**, _East Asian Subtropical Jet Impact on Monthly Near-surface Wind Speed Change over China_ Poster**
+4. 2025, Nanjing, China. **Nanjing Normal University**, _GHG emissions and Volcanic activities impacts on global land near-surface wind speed_ **Invited seminar**
+5. 2024, Vienna, Austria. **EGU 2024**, _East Asian Subtropical Jet Impact on Monthly Near-surface Wind Speed Change over China_ **Poster**
 6. 2023, Gothenburg, Sweden. **GU-GEOseminar**, _Near-surface wind speed change and its impact on wind energy_ **Oral**
 7. 2023, Vienna, Austria. **EGU 2023**, _Evaluation and projection of global terrestrial near-surface wind speed based on CMIP6 GCMs_ **Oral**
 8. 2023, Bratislava, Slovakia. **EMS 2023**, _Projection of the near-surface wind speed based on CMIP6 GCMs and its uncertainties_ **Poster**
