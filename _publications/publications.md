@@ -16,7 +16,7 @@ author_profile: true
 **☨**  Advisees  
 **✉** Correspondence  
 
-*Updated in June 2025*  
+*Updated in September 2025*  
 
 ### <span style="color:#1E90FF">2025</span> 
 ------
