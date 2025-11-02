@@ -103,8 +103,9 @@ I am/was a Teaching Assistant for the following courses:
 
 ## ✒️ <span style="color:#1E90FF">Community Service</span>
 ------
-1. 2024-Now, Youth Editor of The Innovation, Cell Press
-2. 2026, EGU Main Convener of CL2.2: Near-surface wind speed in a changing climate: variability, attribution, and energy impacts
+1. 2024, Recruitment committee for a postdoctoral position at the University of Gothenburg
+2. 2024-Now, Youth Editor of The Innovation, Cell Press
+3. 2026, EGU Main Convener of CL2.2: [Near-surface wind speed in a changing climate: variability, attribution, and energy impacts](https://meetingorganizer.copernicus.org/EGU26/session/56949)
 
 
 
