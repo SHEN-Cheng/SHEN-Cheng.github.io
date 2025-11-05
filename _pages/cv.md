@@ -60,6 +60,8 @@ I am/was a Teaching Assistant for the following courses:
 4. YUAN Hui-Shuang (**Bachelor thesis**, 2023): *Monthly near-surface changes over China and its connection to natural internal variability*, Yunnan University
 5. XU Yang (**Bachelor thesis**, 2024):  *Dominant modes of near-surface wind speed in China*, Yunnan University & University of Chinese Academy of Sciences
 6. WANG Zi-Han (**Bachelor thesis**, 2025): *Differenct types of Land use and Land cover change impact on the changes in near-surface wind speed: a case study in China*
+7. Zhi-Da Sun (**Master student**, 2025): *Disagreement of climate models in near-surface wind simulation and the potential reason*
+8. Guo-Yu Zhao (**Bachelor thesis**, 2026): *Dominating climate modes in Antarctica surface wind*
 
 ## 👨🏻‍ <span style="color:#1E90FF">Presentation</span>
 ------
