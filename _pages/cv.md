@@ -87,7 +87,7 @@ I am/was a Teaching Assistant for the following courses:
 2. AGU News, US: [Warmer climates could mean more wind power](https://news.agu.org/8-7-24-warmer-climates-could-mean-more-wind-power/), 2024
 3. The Guardian, UK: [Global heating could raise potential for offshore wind power, study says](https://www.theguardian.com/news/article/2024/sep/05/global-heating-could-raise-potential-for-offshore-wind-power-study-says), 2024
 4. The Guardian, UK: [Volcanic eruptions pose challenge for wind energy, says study](https://www.theguardian.com/news/2025/feb/06/weatherwatch-volcanic-eruptions-pose-challenge-for-wind-energy-says-study), 2025
-5. Wechat Channel, China: Highlight on Cover of The Innovation Volume 6 Issue 1, 2025
+5. Wechat Channel, China: [Highlight on Cover of The Innovation Volume 6 Issue 1](https://www.the-innovation.org/video/3733), 2025
 6. Lowa Climate Science Education, [The Seven Year Hitch](https://iowaclimate.org/2024/09/05/the-seven-year-hitch/), 2024
 
 
