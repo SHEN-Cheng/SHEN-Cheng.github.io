@@ -120,7 +120,6 @@ I am/was a Teaching Assistant for the following courses:
     padding: 5px;
     width: 45%;
 }
-
 /* Clear floats after the columns */
 .row:after {
     content: "";
