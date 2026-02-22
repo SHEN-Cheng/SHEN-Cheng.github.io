@@ -18,15 +18,21 @@ author_profile: true
 
 *Updated in September 2025*  
 
+### <span style="color:#1E90FF">2026</span> 
+------
+15. Hao, G., Sun, W., Liu, J., Chen, D., Ning, L., **Shen, C.**, Lu, C., Zhang, X., & Lü, G. (2026). Holocene Evolution of Saharan Vegetation Revealed by Paleoclimate Simulations and Machine Learning. **_Information Geography_**, [https://doi.org/10.1016/j.infgeo.2026.100042](https://doi.org/10.1016/j.infgeo.2026.100042).
+16. Li, J., Zhao, Y., Li, J., Guo, L., Shen, C., Zhang, L., Deng, L. and Chen, D., 2026. Deciphering the shift in extreme precipitation over the lower reaches of the Yangtze River Basin: a synoptic-scale analysis. **_Climate Dynamics_**, [https://doi.org/10.1007/s00382-026-08059-6](https://doi.org/10.1007/s00382-026-08059-6).
+17. Yu, Y.<sup>**☨**</sup>, **Shen, C.**, Wen, G., Chen, D. and Li, Z. B., (2025). Global intensification of mean tropospheric winds from IGRA radiosonde and reanalyses. _**Climate Dynamics**_, [https://doi.org/10.1007/s00382-025-08005-y](https://doi.org/10.1007/s00382-025-08005-y).
+
+
 ### <span style="color:#1E90FF">2025</span> 
 ------
-15. Yu, Y.<sup>**☨**</sup>, **Shen, C.**, Wen, G., Chen, D. and Li, Z. B., (2025). Global intensification of mean tropospheric winds from IGRA radiosonde and reanalyses. _**Climate Dynamics**_, [https://doi.org/10.1007/s00382-025-08005-y](https://doi.org/10.1007/s00382-025-08005-y)
-16. Tao, Q., **Shen, C.**, Muscheler, R., and Sjolte, J. (2025). Distinct winter North Atlantic climate responses to tropical and extratropical eruptions over the last millennium in PMIP simulations and reconstructions. _**Climate of the Past**_, [https://doi.org/10.5194/cp-21-2561-2025](https://doi.org/10.5194/cp-21-2561-2025)
-17. **Shen, C.**, Yuan, H. S.<sup>**☨**</sup>, Li, Z. B., Piao, J., Chang, Y., and Chen, D. (2025). Unravelling the future role of internal variability in South Asian near-surface wind speed. _**Earth System Dynamics**_, [https://doi.org/10.5194/esd-16-1959-2025](https://doi.org/10.5194/esd-16-1959-2025).
-18. Li, Z.B., Liu, C., Azorin-Molina, C., An, S.I., Zhao, Y., Xu, Y., Shin, J., Chen, D. and **Shen, C.** <sup>✉</sup>, (2025). Asymmetric response of European near-surface wind speed to CO 2 removal. _**Weather and Climate Dynamics**_, 2025, [https://doi.org/10.5194/wcd-6-1107-2025](https://doi.org/10.5194/wcd-6-1107-2025).
-19. Yuan, H. S.<sup>**☨**</sup>, Piao, J., Chang, Y., and **Shen, C.** <sup>✉</sup> (2025). Simulated and Projected Near-Surface Wind Speed in High-Resolution Model Intercomparison Project Climate Dynamics. _**Climate Dynamics**_, [https://doi.org/10.1007/s00382-025-07792-8](https://doi.org/10.1007/s00382-025-07792-8)
-20. **Shen, C.**, Li, Z. B., Liu, F., Chen, H. W., and Chen, D. (2025). A Robust Reduction in Near-Surface Wind Speed After Volcanic Eruptions: Implications for Wind Energy Generation. _**The Innovation**_. [https://doi.org/10.1016/j.xinn.2024.100734](https://doi.org/10.1016/j.xinn.2024.100734). _**Highlighted on the [Journal Cover](https://www.cell.com/the-innovation/issue?pii=S2666-6758(24)X0007-7)**_, _**featured in**_ [_**The Guardian**_](https://www.theguardian.com/news/2025/feb/06/weatherwatch-volcanic-eruptions-pose-challenge-for-wind-energy-says-study)
-21. Li, Z. B., Sun, M., **Shen, C.** <sup>✉</sup>, and Chen, D. (2025). ENSO‐driven seasonal variability in near‐surface wind speed and wind power potential across China. _**Geophysical Research Letters**_, [https://doi.org/10.1029/2025GL115537](https://doi.org/10.1029/2025GL115537)
+18. Tao, Q., **Shen, C.**, Muscheler, R., and Sjolte, J. (2025). Distinct winter North Atlantic climate responses to tropical and extratropical eruptions over the last millennium in PMIP simulations and reconstructions. _**Climate of the Past**_, [https://doi.org/10.5194/cp-21-2561-2025](https://doi.org/10.5194/cp-21-2561-2025).
+19. **Shen, C.**, Yuan, H. S.<sup>**☨**</sup>, Li, Z. B., Piao, J., Chang, Y., and Chen, D. (2025). Unravelling the future role of internal variability in South Asian near-surface wind speed. _**Earth System Dynamics**_, [https://doi.org/10.5194/esd-16-1959-2025](https://doi.org/10.5194/esd-16-1959-2025).
+20. Li, Z.B., Liu, C., Azorin-Molina, C., An, S.I., Zhao, Y., Xu, Y., Shin, J., Chen, D. and **Shen, C.** <sup>✉</sup>, (2025). Asymmetric response of European near-surface wind speed to CO 2 removal. _**Weather and Climate Dynamics**_, 2025, [https://doi.org/10.5194/wcd-6-1107-2025](https://doi.org/10.5194/wcd-6-1107-2025).
+21. Yuan, H. S.<sup>**☨**</sup>, Piao, J., Chang, Y., and **Shen, C.** <sup>✉</sup> (2025). Simulated and Projected Near-Surface Wind Speed in High-Resolution Model Intercomparison Project Climate Dynamics. _**Climate Dynamics**_, [https://doi.org/10.1007/s00382-025-07792-8](https://doi.org/10.1007/s00382-025-07792-8)
+22. **Shen, C.**, Li, Z. B., Liu, F., Chen, H. W., and Chen, D. (2025). A Robust Reduction in Near-Surface Wind Speed After Volcanic Eruptions: Implications for Wind Energy Generation. _**The Innovation**_. [https://doi.org/10.1016/j.xinn.2024.100734](https://doi.org/10.1016/j.xinn.2024.100734). _**Highlighted on the [Journal Cover](https://www.cell.com/the-innovation/issue?pii=S2666-6758(24)X0007-7)**_, _**featured in**_ [_**The Guardian**_](https://www.theguardian.com/news/2025/feb/06/weatherwatch-volcanic-eruptions-pose-challenge-for-wind-energy-says-study)
+23. Li, Z. B., Sun, M., **Shen, C.** <sup>✉</sup>, and Chen, D. (2025). ENSO‐driven seasonal variability in near‐surface wind speed and wind power potential across China. _**Geophysical Research Letters**_, [https://doi.org/10.1029/2025GL115537](https://doi.org/10.1029/2025GL115537)
 
 
 ### <span style="color:#1E90FF">2024</span> 
