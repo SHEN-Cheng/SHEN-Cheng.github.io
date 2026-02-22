@@ -20,9 +20,9 @@ author_profile: true
 
 ### <span style="color:#1E90FF">2026</span> 
 ------
-15. Hao, G., Sun, W., Liu, J., Chen, D., Ning, L., **Shen, C.**, Lu, C., Zhang, X., & Lü, G. (2026). Holocene Evolution of Saharan Vegetation Revealed by Paleoclimate Simulations and Machine Learning. **_Information Geography_**, [https://doi.org/10.1016/j.infgeo.2026.100042](https://doi.org/10.1016/j.infgeo.2026.100042).
-16. Li, J., Zhao, Y., Li, J., Guo, L., Shen, C., Zhang, L., Deng, L. and Chen, D., 2026. Deciphering the shift in extreme precipitation over the lower reaches of the Yangtze River Basin: a synoptic-scale analysis. **_Climate Dynamics_**, [https://doi.org/10.1007/s00382-026-08059-6](https://doi.org/10.1007/s00382-026-08059-6).
-17. Yu, Y.<sup>**☨**</sup>, **Shen, C.**, Wen, G., Chen, D. and Li, Z. B., (2025). Global intensification of mean tropospheric winds from IGRA radiosonde and reanalyses. _**Climate Dynamics**_, [https://doi.org/10.1007/s00382-025-08005-y](https://doi.org/10.1007/s00382-025-08005-y).
+15. Hao, G., Sun, W., Liu, J., Chen, D., Ning, L., **Shen, C.**, Lu, C., Zhang, X., and Lü, G. (2026). Holocene Evolution of Saharan Vegetation Revealed by Paleoclimate Simulations and Machine Learning. **_Information Geography_**, [https://doi.org/10.1016/j.infgeo.2026.100042](https://doi.org/10.1016/j.infgeo.2026.100042).
+16. Li, J., Zhao, Y., Li, J., Guo, L., **Shen, C.**, Zhang, L., Deng, L. and Chen, D., (2026). Deciphering the shift in extreme precipitation over the lower reaches of the Yangtze River Basin: a synoptic-scale analysis. **_Climate Dynamics_**, [https://doi.org/10.1007/s00382-026-08059-6](https://doi.org/10.1007/s00382-026-08059-6).
+17. Yu, Y.<sup>**☨**</sup>, **Shen, C.**, Wen, G., Chen, D. and Li, Z. B., (2026). Global intensification of mean tropospheric winds from IGRA radiosonde and reanalyses. _**Climate Dynamics**_, [https://doi.org/10.1007/s00382-025-08005-y](https://doi.org/10.1007/s00382-025-08005-y).
 
 
 ### <span style="color:#1E90FF">2025</span> 
