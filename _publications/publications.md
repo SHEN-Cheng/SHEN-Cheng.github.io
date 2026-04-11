@@ -20,7 +20,7 @@ author_profile: true
 
 ### <span style="color:#1E90FF">2026</span> 
 ------
-15. Xu, Y., Yuan, H.‐S., Sun, Z.‐D., Chang,Y., and **Shen, C.** <sup>✉</sup> (2026). EOF‐based biascorrection of near‐surface wind speed overChina reveals stronger future trends andvariability. _**Geophysical Research Letters**_. [https://doi.org/10.1029/2025GL120559](https://doi.org/10.1029/2025GL120559)
+15. Xu, Y., Yuan, H.‐S., Sun, Z.‐D., Chang,Y., and **Shen, C.** <sup>✉</sup> (2026). EOF‐based biascorrection of near‐surface wind speed over China reveals stronger future trends andvariability. _**Geophysical Research Letters**_. [https://doi.org/10.1029/2025GL120559](https://doi.org/10.1029/2025GL120559)
 16. Tian, Y., Zhao, Y., Li, J., **Shen, C.**, Wen, D., Qi, X., Liu, Y. and Chen, D., (2026). Explainable artificial intelligence identifies key meteorological drivers of extreme precipitation in the Asian Monsoon Region. **_Atmospheric Research_**, [https://doi.org/10.1016/j.atmosres.2026.108809](https://doi.org/10.1016/j.atmosres.2026.108809).
 17. Hao, G., Sun, W., Liu, J., Chen, D., Ning, L., **Shen, C.**, Lu, C., Zhang, X., and Lü, G. (2026). Holocene Evolution of Saharan Vegetation Revealed by Paleoclimate Simulations and Machine Learning. **_Information Geography_**, [https://doi.org/10.1016/j.infgeo.2026.100042](https://doi.org/10.1016/j.infgeo.2026.100042).
 18. Li, J., Zhao, Y., Li, J., Guo, L., **Shen, C.**, Zhang, L., Deng, L. and Chen, D., (2026). Deciphering the shift in extreme precipitation over the lower reaches of the Yangtze River Basin: a synoptic-scale analysis. **_Climate Dynamics_**, [https://doi.org/10.1007/s00382-026-08059-6](https://doi.org/10.1007/s00382-026-08059-6).
