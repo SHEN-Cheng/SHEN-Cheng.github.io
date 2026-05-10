@@ -13,16 +13,21 @@ redirect_from:
 ------
 - 2015, **B.S.** in Atmospheric Science, Yunnan University, China
 - 2018, **M.S.** in Meteorology, East China Normal University, China
-- 2024,  **Ph.D** in Climatology, University of Gothenburg, Sweden
+- 2024,  **Ph.D.** in Climatology, University of Gothenburg, Sweden
 
-## 👨‍💻 <span style="color:#1E90FF">Academa Experience</span>
+## 👨‍💻 <span style="color:#1E90FF">Academic Experience</span>
 ------
-* 2023: **Visiting**, Spain
+* 2022-2024: **Doctoral Researcher**, Sweden
+  * Regional Climate Group
+  * Funded by the Swedish Research Council (VR), PI: Prof. Deliang Chen
+  * University of Gothenburg
+* 2023: **Visiting Researcher**, Spain
   * CLIMate, ATmosphere and OCean-LABoratory (CLIMATOC-LAB)
   * Spanish National Research Council (CSIC-UV-GVA)
   * Desertificacion Research Centre (CIDE)
-* 2024: **Post-doc Researcher**, Sweden
+* 2024-present: **Postdoctoral Researcher**, Sweden
   * Regional Climate Group
+  * Funded by the Swedish FORMAS, PI: Prof. Deliang Chen
   * University of Gothenburg
 
 ## 📰 <span style="color:#1E90FF">Publications</span>
@@ -32,13 +37,13 @@ redirect_from:
   {% endfor %}</ul>
 
 
-## 🏯 <span style="color:#1E90FF">Project</span>
+## 🏯 <span style="color:#1E90FF">Projects</span>
 ------
-* ***Adlerbertska forskningsstiftelsen***: *Offshore wind energy changes under climate change*, **Leading**
-* ***Stiftelsen ÅFORSK***: *Wind varies with climate teleconnections*, **Leading**
-* ***Längmanska Kulturfonden***: *Wind drought events over Europe*, **Leading**
-* ***Swedish VR***: *A New Interdisciplinary Framework for Studying the Relation between Climate Change and Migration*, **Participating**
-* ***Swedish FORMAS***: *Impact of climate variation and change on offshore wind energy potential*, **Participating** 
+* ***Adlerbertska forskningsstiftelsen***: *Offshore wind energy changes under climate change*, **Lead**
+* ***Stiftelsen ÅFORSK***: *Wind varies with climate teleconnections*, **Lead**
+* ***Längmanska Kulturfonden***: *Wind drought events over Europe*, **Lead**
+* ***Swedish VR***: *A New Interdisciplinary Framework for Studying the Relation between Climate Change and Migration*, **Participant**
+* ***Swedish FORMAS***: *Impact of climate variation and change on offshore wind energy potential*, **Participant** 
  
 
 ## 🧑🏻‍🏫 <span style="color:#1E90FF">Teaching</span>
@@ -54,7 +59,7 @@ I am/was a Teaching Assistant for the following courses:
 
 ## 👨🏻‍🔬 <span style="color:#1E90FF">Supervision</span>
 ------
-1. YU Yue (**Climate Engineer**, 2021): *[Does CRA-40 outperform other reanalysis products in evaluating near-surface wind speed changes over China?](https://www.sciencedirect.com/science/article/pii/S0169809521005044)* Nanjing Meteorological Bureau
+1. YU Yue (**Meteorological Engineer**, 2021): *[Does CRA-40 outperform other reanalysis products in evaluating near-surface wind speed changes over China?](https://www.sciencedirect.com/science/article/pii/S0169809521005044)* Nanjing Meteorological Bureau
 2. Miguel Andres-Martin (**Co-supervised**, 2022): *Uncertainty in surface wind speed projections over the Iberian Peninsula: CMIP6 GCMs vs. a WRF-RCM*, Universidad Complutense de Madrid
 3. Bromwel Apondi (**Master thesis**, 2022): *Wind speed and wind energy changes over East-Africa*, University of Gothenburg
 4. YUAN Hui-Shuang (**Bachelor thesis**, 2023): *Monthly near-surface changes over China and its connection to natural internal variability*, Yunnan University
@@ -62,7 +67,7 @@ I am/was a Teaching Assistant for the following courses:
 6. WANG Zi-Han (**Bachelor thesis**, 2025): *Differenct types of Land use and Land cover change impact on the changes in near-surface wind speed: a case study in China*
 7. SUN Zhi-Da (**Master student**, 2025): *Disagreement of climate models in near-surface wind simulation and the potential reason*
 8. ZHAO Guo-Yu (**Bachelor thesis**, 2026): *Dominating climate modes in Antarctica surface wind*
-9. ZUO Ling (**Meteorology Engineer**, 2026): *Wind response to LULCC variations*, China Meteorological Administration
+9. ZUO Ling (**Meteorological Engineer**, 2026): *Wind response to LULCC variations*, China Meteorological Administration
 
 ## 👨🏻‍ <span style="color:#1E90FF">Presentation</span>
 ------
@@ -99,7 +104,7 @@ I am/was a Teaching Assistant for the following courses:
 3. 2023, Jonsered Foundation-Villa Martinson, Sweden
 4. 2023, Adlerbert Scholarships, Sweden
 5. 2024, Jonsered Foundation-Villa Martinson, Sweden
-6. 2024, Award for Outstanding Self-financed Students Abroad , China
+6. 2024, Award for Outstanding Self-financed Students Abroad (优秀自费留学生奖), China
 7. 2024, Längmanska Kulturfonden (BA24-0484), Sweden
 8. 2024, Adlerbertska Forskningsstiftelsen (AF2024-0069), Sweden
 9. 2024, Stiftelsen ÅFORSK (24707), Sweden
@@ -159,7 +164,6 @@ I am/was a Teaching Assistant for the following courses:
 
 ## 🤙 <span style="color:#1E90FF">Contact</span>
 ------
-- **E-mail/Skype** (<span style="color:red">Urgent</span>): shen159876@gmail.com
 - **Work E-mail**: cheng.shen@gu.se
 
 ## 🏢 <span style="color:#1E90FF">Address</span>
