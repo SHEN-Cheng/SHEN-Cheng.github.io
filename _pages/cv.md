@@ -15,7 +15,7 @@ redirect_from:
 - 2018, **M.S.** in Meteorology, East China Normal University, China
 - 2024,  **Ph.D.** in Climatology, University of Gothenburg, Sweden
 
-## 👨‍💻 <span style="color:#1E90FF">Academic Experience</span>
+## 👨‍💻 <span style="color:#1E90FF">Professional Experience</span>
 ------
 * 2022-2024: **Doctoral Researcher**, Sweden
   * Regional Climate Group
@@ -37,7 +37,22 @@ redirect_from:
   {% endfor %}</ul>
 
 
-## 🏯 <span style="color:#1E90FF">Projects</span>
+
+## 🏅 <span style="color:#1E90FF">Awards, and Grants</span>
+------
+1. 2022, Research Fund Adlerbertska Stiftelse, Sweden
+2. 2023, Sven Lindqvists Forskningsstiftelse, Sweden
+3. 2023, Jonsered Foundation-Villa Martinson, Sweden
+4. 2023, Adlerbert Scholarships, Sweden
+5. 2024, Jonsered Foundation-Villa Martinson, Sweden
+6. 2024, Award for Outstanding Self-financed Students Abroad (优秀自费留学生奖), China
+7. 2024, Längmanska Kulturfonden (BA24-0484), Sweden
+8. 2024, Adlerbertska Forskningsstiftelsen (AF2024-0069), Sweden
+9. 2024, Stiftelsen ÅFORSK (24707), Sweden
+10. 2025, Herbert & Karin Jacobssons Stiftelse (2025-465), Sweden
+
+
+## 🏯 <span style="color:#1E90FF">Projects and Fellowships</span>
 ------
 * ***Adlerbertska forskningsstiftelsen***: *Offshore wind energy changes under climate change*, **Lead**
 * ***Stiftelsen ÅFORSK***: *Wind varies with climate teleconnections*, **Lead**
@@ -96,19 +111,6 @@ I am/was a Teaching Assistant for the following courses:
 5. Wechat Channel, China: [Highlight on Cover of The Innovation Volume 6 Issue 1](https://www.the-innovation.org/video/3733), 2025
 6. Lowa Climate Science Education, [The Seven Year Hitch](https://iowaclimate.org/2024/09/05/the-seven-year-hitch/), 2024
 
-
-## 🏅 <span style="color:#1E90FF">Awards and Honors</span>
-------
-1. 2022, Research Fund Adlerbertska Stiftelse, Sweden
-2. 2023, Sven Lindqvists Forskningsstiftelse, Sweden
-3. 2023, Jonsered Foundation-Villa Martinson, Sweden
-4. 2023, Adlerbert Scholarships, Sweden
-5. 2024, Jonsered Foundation-Villa Martinson, Sweden
-6. 2024, Award for Outstanding Self-financed Students Abroad (优秀自费留学生奖), China
-7. 2024, Längmanska Kulturfonden (BA24-0484), Sweden
-8. 2024, Adlerbertska Forskningsstiftelsen (AF2024-0069), Sweden
-9. 2024, Stiftelsen ÅFORSK (24707), Sweden
-10. 2025, Herbert & Karin Jacobssons Stiftelse (2025-465), Sweden
 
 ## ✒️ <span style="color:#1E90FF">Community Service</span>
 ------
