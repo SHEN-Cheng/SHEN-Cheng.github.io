@@ -25,10 +25,14 @@ redirect_from:
   * CLIMate, ATmosphere and OCean-LABoratory (CLIMATOC-LAB)
   * Spanish National Research Council (CSIC-UV-GVA)
   * Desertificacion Research Centre (CIDE)
-* 2024-present: **Postdoctoral Researcher**, Sweden
+* 2024-2026: **Postdoctoral Researcher**, Sweden
   * Regional Climate Group
   * Funded by the Swedish FORMAS, PI: Prof. Deliang Chen
   * University of Gothenburg
+* 2026-2029: **Juan de la Cierva Fellow**, Spain
+  * Funded by Spanish Ministry of Science, State Research Agency (AEI)
+  * Spanish National Research Council (CSIC-UV-GVA)
+
 
 ## 📰 <span style="color:#1E90FF">Publications</span>
 ------
@@ -40,27 +44,28 @@ redirect_from:
 
 ## 🏅 <span style="color:#1E90FF">Awards, and Grants</span>
 ------
-1. 2022, Research Fund Adlerbertska Stiftelse, Sweden
-2. 2023, Sven Lindqvists Forskningsstiftelse, Sweden
-3. 2023, Jonsered Foundation-Villa Martinson, Sweden
-4. 2023, Adlerbert Scholarships, Sweden
-5. 2024, Jonsered Foundation-Villa Martinson, Sweden
-6. 2024, Award for Outstanding Self-financed Students Abroad (优秀自费留学生奖), China
-7. 2024, Längmanska Kulturfonden (BA24-0484), Sweden
-8. 2024, Adlerbertska Forskningsstiftelsen (AF2024-0069), Sweden
-9. 2024, Stiftelsen ÅFORSK (24707), Sweden
-10. 2025, Herbert & Karin Jacobssons Stiftelse (2025-465), Sweden
-
+1. 2026, Juan de la Cierva Fellowship (JDC2025-056820-I), Spain
+2. 2025, Herbert & Karin Jacobssons Stiftelse (2025-465), Sweden
+3. 2024, Stiftelsen ÅFORSK (24707), Sweden
+4. 2024, Jonsered Foundation-Villa Martinson, Sweden
+5. 2024, Award for Outstanding Self-financed Students Abroad (优秀自费留学生奖), China
+6. 2024, Längmanska Kulturfonden (BA24-0484), Sweden
+7. 2024, Adlerbertska Forskningsstiftelsen (AF2024-0069), Sweden
+8. 2024, Stiftelsen ÅFORSK (24707), Sweden
+9. 2022, Research Fund Adlerbertska Stiftelse, Sweden
+10. 2023, Sven Lindqvists Forskningsstiftelse, Sweden
+11. 2023, Jonsered Foundation-Villa Martinson, Sweden
+12. 2023, Adlerbert Scholarships, Sweden
 
 ## 🏯 <span style="color:#1E90FF">Projects and Fellowships</span>
 ------
+* ***Juan de la Cierva Postdoctoral Fellowship***, Spanish State Research Agency (AEI), Spain. Role: PI. **Lead**
 * ***Adlerbertska forskningsstiftelsen***: *Offshore wind energy changes under climate change*, **Lead**
 * ***Stiftelsen ÅFORSK***: *Wind varies with climate teleconnections*, **Lead**
 * ***Längmanska Kulturfonden***: *Wind drought events over Europe*, **Lead**
 * ***Swedish VR***: *A New Interdisciplinary Framework for Studying the Relation between Climate Change and Migration*, **Participant**
 * ***Swedish FORMAS***: *Impact of climate variation and change on offshore wind energy potential*, **Participant** 
  
-
 ## 🧑🏻‍🏫 <span style="color:#1E90FF">Teaching</span>
 ------
 I am/was a Teaching Assistant for the following courses:
@@ -70,8 +75,6 @@ I am/was a Teaching Assistant for the following courses:
 - ***Climate Change and Society***
   - [ID: NG0220](https://www.gu.se/en/study-gothenburg/climate-change-and-society-ng0220). Lectured by Prof [Deliang Chen](https://www.gu.se/en/about/find-staff/deliangchen); Spring 2023
  
-
-
 ## 👨🏻‍🔬 <span style="color:#1E90FF">Supervision</span>
 ------
 1. YU Yue (**Meteorological Engineer**, 2021): *[Does CRA-40 outperform other reanalysis products in evaluating near-surface wind speed changes over China?](https://www.sciencedirect.com/science/article/pii/S0169809521005044)* Nanjing Meteorological Bureau
@@ -117,7 +120,7 @@ I am/was a Teaching Assistant for the following courses:
 1. 2024, Recruitment committee for a postdoctoral position at the University of Gothenburg
 2. 2024-Now, Youth Editor of The Innovation (IF=11.33), Cell Press
 3. 2026, Vienna, EGU-2026 Main Convener of CL2.2: Near-surface wind speed in a changing climate: variability, attribution, and energy impacts
-4. 2026，Referee of EGU Outstanding Student and PhD candidate Presentation (OSPP)
+4. 2026，Referee of EGU-2026 Outstanding Student and PhD candidate Presentation (OSPP)
 
 
 
@@ -167,7 +170,7 @@ I am/was a Teaching Assistant for the following courses:
 
 ## 🤙 <span style="color:#1E90FF">Contact</span>
 ------
-- **Work E-mail**: cheng.shen@gu.se
+- **E-mail**: cheng.shen@gu.se
 
 ## 🏢 <span style="color:#1E90FF">Address</span>
 ------
