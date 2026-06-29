@@ -121,6 +121,7 @@ I am/was a Teaching Assistant for the following courses:
 2. 2024-Now, Youth Editor of The Innovation (IF=39), Cell Press
 3. 2026, EGU-2026 Main Convener of CL2.2: Near-surface wind speed in a changing climate: variability, attribution, and energy impacts
 4. 2026, Referee of EGU-2026 Outstanding Student and PhD candidate Presentation (OSPP)
+5. 2026, Expert Reviewer, IPCC Special Report on Climate Change and Cities (SRCITIES), Intergovernmental Panel on Climate Change (IPCC).
 
 
 
