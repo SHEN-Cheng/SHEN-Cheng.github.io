@@ -51,7 +51,6 @@ redirect_from:
 5. 2024, Award for Outstanding Self-financed Students Abroad (优秀自费留学生奖), China
 6. 2024, Längmanska Kulturfonden (BA24-0484), Sweden
 7. 2024, Adlerbertska Forskningsstiftelsen (AF2024-0069), Sweden
-8. 2024, Stiftelsen ÅFORSK (24707), Sweden
 9. 2022, Research Fund Adlerbertska Stiftelse, Sweden
 10. 2023, Sven Lindqvists Forskningsstiftelse, Sweden
 11. 2023, Jonsered Foundation-Villa Martinson, Sweden
