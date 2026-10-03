@@ -44,13 +44,14 @@ redirect_from:
 
 ## 🏅 <span style="color:#1E90FF">Awards, and Grants</span>
 ------
-1. 2026, Juan de la Cierva Fellowship (JDC2025-056820-I), Spain
-2. 2025, Herbert & Karin Jacobssons Stiftelse (2025-465), Sweden
-3. 2024, Stiftelsen ÅFORSK (24707), Sweden
-4. 2024, Jonsered Foundation-Villa Martinson, Sweden
-5. 2024, Award for Outstanding Self-financed Students Abroad (优秀自费留学生奖), China
-6. 2024, Längmanska Kulturfonden (BA24-0484), Sweden
-7. 2024, Adlerbertska Forskningsstiftelsen (AF2024-0069), Sweden
+1. 2026, Trusted Reviewer, IOP Publishing 
+2. 2026, Juan de la Cierva Fellowship (JDC2025-056820-I), Spain
+3. 2025, Herbert & Karin Jacobssons Stiftelse (2025-465), Sweden
+4. 2024, Stiftelsen ÅFORSK (24707), Sweden
+5. 2024, Jonsered Foundation-Villa Martinson, Sweden
+6. 2024, Award for Outstanding Self-financed Students Abroad (优秀自费留学生奖), China
+7. 2024, Längmanska Kulturfonden (BA24-0484), Sweden
+8. 2024, Adlerbertska Forskningsstiftelsen (AF2024-0069), Sweden
 9. 2022, Research Fund Adlerbertska Stiftelse, Sweden
 10. 2023, Sven Lindqvists Forskningsstiftelse, Sweden
 11. 2023, Jonsered Foundation-Villa Martinson, Sweden
@@ -121,6 +122,7 @@ I am/was a Teaching Assistant for the following courses:
 3. 2026, EGU-2026 Main Convener of CL2.2: Near-surface wind speed in a changing climate: variability, attribution, and energy impacts
 4. 2026, Referee of EGU-2026 Outstanding Student and PhD candidate Presentation (OSPP)
 5. 2026, Expert Reviewer, IPCC Special Report on Climate Change and Cities (SRCITIES), Intergovernmental Panel on Climate Change (IPCC).
+6. 2026, IOP Trusted Reviewer 
 
 
 
