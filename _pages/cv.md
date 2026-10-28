@@ -159,6 +159,7 @@ I am/was a Teaching Assistant for the following courses:
 <li>Mandarin: Mothertongue</li>
 <li>English: Fluent</li>
 <li>Swedish: Basic</li>
+<li>Spainish: Beginner</li>
 </ul>
 </div>
 
